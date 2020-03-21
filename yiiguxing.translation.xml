@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stereotype" />
       <item value="INTERNAL SERVER ERROR" />
       <item value="NOT IMPLEMENTED" />
       <item value="INSUFFICIENT SPACE ON RESOURCE" />

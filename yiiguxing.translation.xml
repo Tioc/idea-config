@@ -1,6 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INTERNAL SERVER ERROR" />
+      <item value="NOT IMPLEMENTED" />
+      <item value="INSUFFICIENT SPACE ON RESOURCE" />
+      <item value="PAYLOAD TOO LARGE" />
+      <item value="PRECONDITION FAILED" />
+      <item value="LENGTH REQUIRED" />
+      <item value="GONE" />
+      <item value="CONFLICT" />
+      <item value="PROXY AUTHENTICATION REQUIRED" />
+      <item value="METHOD NOT ALLOWED" />
+      <item value="FORBIDDEN" />
+      <item value="PAYMENT REQUIRED" />
+      <item value="UNAUTHORIZED" />
+      <item value="PERMANENT REDIRECT" />
+      <item value="TEMPORARY REDIRECT" />
+      <item value="NOT MODIFIED" />
+      <item value="SEE OTHER" />
+      <item value="MOVED TEMPORARILY" />
+      <item value="FOUND" />
+      <item value="MULTIPLE CHOICES" />
+      <item value="MOVED PERMANENTLY" />
+      <item value="IM USED" />
+      <item value="ALREADY REPORTED" />
+      <item value="MULTI STATUS" />
+      <item value="PARTIAL CONTENT" />
+      <item value="RESET CONTENT" />
+      <item value="NO CONTENT" />
+      <item value="NON AUTHORITATIVE INFORMATION" />
+      <item value="CREATED" />
+      <item value="ACCEPTED" />
+      <item value="CHECKPOINT" />
+      <item value="PROCESSING" />
+      <item value="CONTINUE" />
+      <item value="SWITCHING PROTOCOLS" />
+      <item value="Mytasks Query Criteria" />
       <item value="Runtime Exception" />
       <item value="type Annotation" />
       <item value="analysis Type" />
@@ -10,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

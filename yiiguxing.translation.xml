@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Can not issue data manipulation statements with executeQuery()" />
+      <item value="TABLE" />
       <item value="IDENTITY" />
+      <item value="Can not issue data manipulation statements with executeQuery()" />
       <item value="Can not issue data manipulation statements with executeQuery()." />
       <item value="Transaction Required Exception" />
       <item value="Api Operation" />
@@ -50,12 +51,11 @@
       <item value="CHECKPOINT" />
       <item value="PROCESSING" />
       <item value="CONTINUE" />
-      <item value="SWITCHING PROTOCOLS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

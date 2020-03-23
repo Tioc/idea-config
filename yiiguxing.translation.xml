@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nullable" />
       <item value="is Birthday" />
       <item value="example" />
       <item value="argument type mismatch" />
@@ -50,12 +51,11 @@
       <item value="NO CONTENT" />
       <item value="NON AUTHORITATIVE INFORMATION" />
       <item value="CREATED" />
-      <item value="ACCEPTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

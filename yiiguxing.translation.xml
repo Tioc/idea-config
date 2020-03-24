@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXPECTATION FAILED" />
+      <item value="REQUEST ENTITY TOO LARGE" />
+      <item value="PAYLOAD TOO LARGE" />
+      <item value="PRECONDITION FAILED" />
+      <item value="LENGTH REQUIRED" />
+      <item value="GONE" />
+      <item value="CONFLICT" />
+      <item value="REQUEST TIMEOUT" />
+      <item value="PROXY AUTHENTICATION REQUIRED" />
+      <item value="NOT ACCEPTABLE" />
+      <item value="METHOD NOT ALLOWED" />
+      <item value="FORBIDDEN" />
+      <item value="PAYMENT REQUIRED" />
+      <item value="UNAUTHORIZED" />
+      <item value="Unauthorized" />
+      <item value="Found" />
+      <item value="Moved Permanently" />
+      <item value="Multiple" />
+      <item value="Checkpoint" />
+      <item value="Processing" />
+      <item value="Protocols" />
+      <item value="Switching" />
       <item value="Authentication" />
       <item value="Extended" />
       <item value="SERVER ERROR" />
@@ -29,33 +51,11 @@
       <item value="Zero date value prohibited" />
       <item value="prohibited" />
       <item value="transport" />
-      <item value="member" />
-      <item value="membership" />
-      <item value="point Detail" />
-      <item value="stereotype" />
-      <item value="INTERNAL SERVER ERROR" />
-      <item value="NOT IMPLEMENTED" />
-      <item value="INSUFFICIENT SPACE ON RESOURCE" />
-      <item value="PAYLOAD TOO LARGE" />
-      <item value="PRECONDITION FAILED" />
-      <item value="LENGTH REQUIRED" />
-      <item value="GONE" />
-      <item value="CONFLICT" />
-      <item value="PROXY AUTHENTICATION REQUIRED" />
-      <item value="METHOD NOT ALLOWED" />
-      <item value="FORBIDDEN" />
-      <item value="PAYMENT REQUIRED" />
-      <item value="UNAUTHORIZED" />
-      <item value="PERMANENT REDIRECT" />
-      <item value="TEMPORARY REDIRECT" />
-      <item value="NOT MODIFIED" />
-      <item value="SEE OTHER" />
-      <item value="MOVED TEMPORARILY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

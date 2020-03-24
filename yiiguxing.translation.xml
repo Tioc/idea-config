@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authentication" />
+      <item value="Extended" />
+      <item value="SERVER ERROR" />
+      <item value="CLIENT ERROR" />
+      <item value="REDIRECTION" />
+      <item value="SUCCESSFUL" />
+      <item value="INFORMATIONAL" />
       <item value="Immutable" />
       <item value="Immutable Map" />
       <item value="Validate" />
@@ -44,18 +51,11 @@
       <item value="NOT MODIFIED" />
       <item value="SEE OTHER" />
       <item value="MOVED TEMPORARILY" />
-      <item value="FOUND" />
-      <item value="MULTIPLE CHOICES" />
-      <item value="MOVED PERMANENTLY" />
-      <item value="IM USED" />
-      <item value="ALREADY REPORTED" />
-      <item value="MULTI STATUS" />
-      <item value="PARTIAL CONTENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

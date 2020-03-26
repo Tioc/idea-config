@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configurer" />
+      <item value="Configuration Properties" />
+      <item value="Prop" />
       <item value="produces" />
       <item value="Could not find acceptable representation" />
       <item value="Http Media Type Not Acceptable Exception" />
@@ -48,19 +51,17 @@
       <item value="Immutable" />
       <item value="Immutable Map" />
       <item value="Validate" />
-      <item value="Validate Util" />
-      <item value="Nullable" />
-      <item value="is Birthday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="CATALAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>

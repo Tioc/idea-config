@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parm" />
       <item value="timestamp" />
       <item value="Configurer" />
       <item value="Configuration Properties" />
@@ -50,12 +51,11 @@
       <item value="SUCCESSFUL" />
       <item value="INFORMATIONAL" />
       <item value="Immutable" />
-      <item value="Immutable Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

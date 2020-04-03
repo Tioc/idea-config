@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ANSI" />
+      <item value="Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply'" />
+      <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available:" />
       <item value="Anonymous" />
       <item value="Auth" />
       <item value="Returns the name of this enum constant, as contained in the * declaration. This method may be overridden, though it typically * isn't necessary or desirable. An enum type should override this * method when a more &quot;programmer-friendly&quot; string form exists." />
@@ -48,13 +51,10 @@
       <item value="Moved Permanently" />
       <item value="Multiple" />
       <item value="Checkpoint" />
-      <item value="Processing" />
-      <item value="Protocols" />
-      <item value="Switching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
+        <entry key="CHINESE" value="123" />
         <entry key="ENGLISH" value="123" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

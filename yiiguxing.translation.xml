@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommended" />
       <item value="ANSI" />
       <item value="Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply'" />
       <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available:" />
@@ -50,7 +51,6 @@
       <item value="Found" />
       <item value="Moved Permanently" />
       <item value="Multiple" />
-      <item value="Checkpoint" />
     </histories>
     <option name="languageScores">
       <map>

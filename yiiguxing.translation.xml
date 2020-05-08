@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Acknowledgment" />
+      <item value="linger" />
       <item value="auto Offset Reset" />
       <item value="Attempt to heartbeat failed since group is rebalancing" />
-      <item value="Acknowledgment" />
       <item value="fatal" />
       <item value="Decoration Interest" />
       <item value="Prerogative" />
@@ -50,12 +51,11 @@
       <item value="is Today Signed" />
       <item value="Today Signed" />
       <item value="EXPECTATION FAILED" />
-      <item value="REQUEST ENTITY TOO LARGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

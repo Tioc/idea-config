@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="migration" />
       <item value="Deal" />
       <item value="Deal Api" />
       <item value="partitions assigned" />
@@ -50,12 +51,11 @@
       <item value="receive Birthday Point" />
       <item value="Deprecated" />
       <item value="parm" />
-      <item value="timestamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

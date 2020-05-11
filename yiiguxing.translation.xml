@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deal" />
+      <item value="Deal Api" />
       <item value="partitions assigned" />
       <item value="LEADER NOT AVAILABLE" />
       <item value="FAIL" />
@@ -49,13 +51,11 @@
       <item value="Deprecated" />
       <item value="parm" />
       <item value="timestamp" />
-      <item value="Configurer" />
-      <item value="Configuration Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -63,6 +63,7 @@
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>

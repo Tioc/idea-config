@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Post Construct" />
       <item value="received" />
       <item value="process" />
       <item value="migration" />
@@ -50,12 +51,11 @@
       <item value="The name of this enum constant, as declared in the enum declaration. * Most programmers should use the {@link #toString} method rather than * accessing this field." />
       <item value="serial Field" />
       <item value="Customer" />
-      <item value="receive Birthday Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

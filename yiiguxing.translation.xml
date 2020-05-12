@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="initial Capacity" />
       <item value="Transfer" />
+      <item value="model Transfer" />
+      <item value="initial Capacity" />
       <item value="Model Transfer" />
       <item value="Ga Model Transfer" />
       <item value="Tranfer" />
@@ -50,12 +51,11 @@
       <item value="Membership Privilege" />
       <item value="会员特权" />
       <item value="特权" />
-      <item value="会员权益" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -64,7 +64,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="INDONESIAN" value="3" />
+        <entry key="INDONESIAN" value="4" />
       </map>
     </option>
   </component>

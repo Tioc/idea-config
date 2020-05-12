@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transfer" />
+      <item value="Tranfer" />
+      <item value="Guanai Model Tranfer" />
+      <item value="transfer" />
+      <item value="转换器" />
+      <item value="转换" />
       <item value="FAILURE" />
       <item value="The coordinator is not aware of this member." />
       <item value="Post Construct" />
@@ -45,17 +51,11 @@
       <item value="Workspace associated with branch 'master' has been restored" />
       <item value="recommended" />
       <item value="ANSI" />
-      <item value="Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply'" />
-      <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available:" />
-      <item value="Anonymous" />
-      <item value="Auth" />
-      <item value="Returns the name of this enum constant, as contained in the * declaration. This method may be overridden, though it typically * isn't necessary or desirable. An enum type should override this * method when a more &quot;programmer-friendly&quot; string form exists." />
-      <item value="The name of this enum constant, as declared in the enum declaration. * Most programmers should use the {@link #toString} method rather than * accessing this field." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -63,7 +63,8 @@
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>

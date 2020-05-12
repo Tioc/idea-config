@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Capacity" />
       <item value="Transfer" />
       <item value="Model Transfer" />
       <item value="Ga Model Transfer" />
@@ -50,12 +51,11 @@
       <item value="会员特权" />
       <item value="特权" />
       <item value="会员权益" />
-      <item value="Workspace associated with branch 'master' has been restored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

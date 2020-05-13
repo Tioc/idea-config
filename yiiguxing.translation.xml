@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="log" />
+      <item value="log Suc" />
+      <item value="handler" />
       <item value="UHK" />
       <item value="CARING" />
       <item value="关爱" />
@@ -48,22 +51,20 @@
       <item value="concurrency" />
       <item value="USER" />
       <item value="decorate" />
-      <item value="decoration" />
-      <item value="SELL" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAYALAM" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="INDONESIAN" value="4" />

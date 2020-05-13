@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UHK" />
+      <item value="CARING" />
+      <item value="关爱" />
+      <item value="USER HKEEPER" />
+      <item value="SERV" />
+      <item value="SERVICE" />
+      <item value="USER HOUSEKEEPER" />
+      <item value="USER KEEPER" />
+      <item value="管家" />
+      <item value="用户管家" />
+      <item value="客服" />
+      <item value="MALL" />
+      <item value="RETAIL" />
       <item value="Sub Sys" />
       <item value="data" />
       <item value="Exchange" />
@@ -38,27 +51,15 @@
       <item value="decoration" />
       <item value="SELL" />
       <item value="accept" />
-      <item value="worksheet" />
-      <item value="receive" />
-      <item value="sink" />
-      <item value="Acknowledgment" />
-      <item value="linger" />
-      <item value="auto Offset Reset" />
-      <item value="Attempt to heartbeat failed since group is rebalancing" />
-      <item value="fatal" />
-      <item value="Decoration Interest" />
-      <item value="Prerogative" />
-      <item value="Maintenance" />
-      <item value="domain" />
-      <item value="Delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="192" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />

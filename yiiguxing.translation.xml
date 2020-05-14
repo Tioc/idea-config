@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sub Sys" />
       <item value="handle" />
       <item value="handle Data" />
       <item value="orion" />
@@ -24,7 +25,6 @@
       <item value="客服" />
       <item value="MALL" />
       <item value="RETAIL" />
-      <item value="Sub Sys" />
       <item value="data" />
       <item value="Transfor" />
       <item value="Transf" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

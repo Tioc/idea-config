@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="county" />
       <item value="Sub Sys" />
       <item value="handle" />
       <item value="handle Data" />
@@ -50,12 +51,11 @@
       <item value="LEADER NOT AVAILABLE" />
       <item value="FAIL" />
       <item value="global" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

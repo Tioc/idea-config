@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fatal" />
+      <item value="re Handler" />
       <item value="handle" />
       <item value="Post Construct" />
-      <item value="re Handler" />
       <item value="Suc" />
       <item value="Mem" />
       <item value="Meb" />
@@ -50,12 +51,11 @@
       <item value="FAILURE" />
       <item value="The coordinator is not aware of this member." />
       <item value="received" />
-      <item value="process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />

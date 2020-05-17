@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kuka Data Logger" />
+      <item value="exec" />
+      <item value="Kuka Data Handler" />
+      <item value="Handler" />
+      <item value="handler" />
+      <item value="Executor" />
+      <item value="Component" />
       <item value="handle" />
+      <item value="check" />
       <item value="流程图" />
       <item value="flow" />
       <item value="flower" />
@@ -39,33 +47,26 @@
       <item value="receive" />
       <item value="log" />
       <item value="log Suc" />
-      <item value="handler" />
       <item value="UHK" />
       <item value="CARING" />
       <item value="关爱" />
       <item value="USER HKEEPER" />
-      <item value="SERV" />
-      <item value="SERVICE" />
-      <item value="USER HOUSEKEEPER" />
-      <item value="USER KEEPER" />
-      <item value="管家" />
-      <item value="用户管家" />
-      <item value="客服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="231" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />

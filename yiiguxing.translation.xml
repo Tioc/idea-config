@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max Retry Num" />
+      <item value="max Retry" />
+      <item value="重试次数上限" />
+      <item value="重试次数" />
+      <item value="exec Handle" />
+      <item value="handle" />
+      <item value="process" />
+      <item value="处理消息入口" />
+      <item value="处理中" />
+      <item value="处理" />
+      <item value="处理数据" />
+      <item value="check Data" />
+      <item value="exec Data" />
+      <item value="re Handle" />
+      <item value="Caller" />
+      <item value="Kuka Caller" />
       <item value="Kuka Data Logger" />
       <item value="exec" />
       <item value="Kuka Data Handler" />
@@ -8,7 +24,6 @@
       <item value="handler" />
       <item value="Executor" />
       <item value="Component" />
-      <item value="handle" />
       <item value="check" />
       <item value="流程图" />
       <item value="flow" />
@@ -36,26 +51,11 @@
       <item value="Meb" />
       <item value="Mebship" />
       <item value="Member Creator" />
-      <item value="Member Creator Param" />
-      <item value="Exchange" />
-      <item value="county" />
-      <item value="Sub Sys" />
-      <item value="handle Data" />
-      <item value="orion" />
-      <item value="annotation" />
-      <item value="configuration" />
-      <item value="receive" />
-      <item value="log" />
-      <item value="log Suc" />
-      <item value="UHK" />
-      <item value="CARING" />
-      <item value="关爱" />
-      <item value="USER HKEEPER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -63,6 +63,7 @@
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />

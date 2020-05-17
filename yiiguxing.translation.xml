@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAX RETRY NUM" />
       <item value="字段" />
       <item value="Data Field" />
       <item value="Filed" />
@@ -50,12 +51,11 @@
       <item value="fatal" />
       <item value="re Handler" />
       <item value="Post Construct" />
-      <item value="Suc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

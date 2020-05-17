@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kuka Data Logger" />
       <item value="自定义" />
       <item value="MAX RETRY NUM" />
       <item value="字段" />
@@ -23,7 +24,6 @@
       <item value="re Handle" />
       <item value="Caller" />
       <item value="Kuka Caller" />
-      <item value="Kuka Data Logger" />
       <item value="exec" />
       <item value="Kuka Data Handler" />
       <item value="Handler" />
@@ -67,7 +67,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />

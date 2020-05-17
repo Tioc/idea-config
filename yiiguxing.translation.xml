@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
       <item value="流程图" />
       <item value="flow" />
       <item value="flower" />
@@ -21,7 +22,6 @@
       <item value="Illegal character in scheme name at index" />
       <item value="fatal" />
       <item value="re Handler" />
-      <item value="handle" />
       <item value="Post Construct" />
       <item value="Suc" />
       <item value="Mem" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

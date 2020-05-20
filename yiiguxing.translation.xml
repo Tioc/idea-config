@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update" />
+      <item value="upgrade" />
+      <item value="up" />
       <item value="payload" />
       <item value="Kuka Data Logger" />
       <item value="自定义" />
@@ -48,14 +51,11 @@
       <item value="clean Code" />
       <item value="集团" />
       <item value="平台" />
-      <item value="Illegal character in scheme name at index 0" />
-      <item value="Illegal character in scheme name at index" />
-      <item value="fatal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

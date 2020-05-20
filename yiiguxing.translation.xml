@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memb" />
       <item value="Abutment" />
       <item value="judge" />
       <item value="cause" />
@@ -50,11 +51,10 @@
       <item value="ntain" />
       <item value="maint" />
       <item value="tain" />
-      <item value="discard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
+        <entry key="CHINESE" value="261" />
         <entry key="ENGLISH" value="261" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -71,7 +71,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>

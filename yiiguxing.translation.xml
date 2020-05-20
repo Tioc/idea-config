@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="精彩项目" />
+      <item value="maintenance" />
       <item value="Memb" />
       <item value="Abutment" />
       <item value="judge" />
@@ -48,14 +51,11 @@
       <item value="流程" />
       <item value="maintain" />
       <item value="main" />
-      <item value="ntain" />
-      <item value="maint" />
-      <item value="tain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

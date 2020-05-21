@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Secs" />
       <item value="Millis" />
       <item value="Millions" />
       <item value="Mills" />
@@ -50,7 +51,6 @@
       <item value="exec Data" />
       <item value="re Handle" />
       <item value="exec" />
-      <item value="Kuka Data Handler" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="3" />

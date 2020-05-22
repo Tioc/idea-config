@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer exists check" />
       <item value="checker" />
       <item value="检查站" />
       <item value="Secs" />
@@ -50,12 +51,11 @@
       <item value="处理" />
       <item value="处理数据" />
       <item value="check Data" />
-      <item value="exec Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

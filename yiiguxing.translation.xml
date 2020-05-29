@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mem" />
+      <item value="cust" />
       <item value="identities" />
       <item value="host-prod" />
       <item value="kuka api host -prod" />
@@ -49,13 +51,11 @@
       <item value="Kuka Data Logger" />
       <item value="自定义" />
       <item value="MAX RETRY NUM" />
-      <item value="字段" />
-      <item value="Data Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="292" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -73,7 +73,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="8" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>

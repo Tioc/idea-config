@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identities" />
       <item value="host-prod" />
       <item value="kuka api host -prod" />
       <item value="api prod host" />
@@ -50,12 +51,11 @@
       <item value="MAX RETRY NUM" />
       <item value="字段" />
       <item value="Data Field" />
-      <item value="Filed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

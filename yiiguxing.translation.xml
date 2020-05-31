@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transform" />
+      <item value="transform Membership Info To Customer Info For Create" />
+      <item value="transfo" />
+      <item value="transfor" />
       <item value="init variable" />
       <item value="variable" />
       <item value="variables" />
       <item value="transfer" />
-      <item value="transfor" />
       <item value="mem" />
       <item value="cust" />
       <item value="identities" />
@@ -48,25 +51,22 @@
       <item value="cause" />
       <item value="Unchecked call to 'buildGaUser(T)' as a member of raw type 'com.kuka.kukasys.model.transfer.KukaModelTransfer" />
       <item value="Raw use of parameterized class 'KukaModelTransfer" />
-      <item value="update" />
-      <item value="upgrade" />
-      <item value="up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="ROMANIAN" value="3" />
-        <entry key="MALAYALAM" value="3" />
+        <entry key="MALAYALAM" value="4" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="SLOVENIAN" value="2" />
         <entry key="SCOTS_GAELIC" value="1" />

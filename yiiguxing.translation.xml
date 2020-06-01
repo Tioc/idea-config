@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create membership: remove openid that already used" />
+      <item value="create membership remove openid that already used" />
+      <item value="remove openid that already used" />
+      <item value="openid already used" />
+      <item value="openid be used" />
+      <item value="openid used" />
       <item value="org.springframework.web.client.RestClientException: Error while extracting response for type [class com.alibaba.fastjson.JSONObject] and content type [application/json;charset=utf-8]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of `com.alibaba.fastjson.JSONObject&lt;java.lang.String,java.lang.Object&gt;` out of START_ARRAY token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `com.alibaba.fastjson.JSONObject&lt;java.lang.String,java.lang.Object&gt;` out of START_ARRAY token at [Source: (PushbackInputStream); line: 1, column: 1]" />
       <item value="transform" />
       <item value="transform Membership Info To Customer Info For Create" />
@@ -45,17 +51,11 @@
       <item value="Evaluate" />
       <item value="内容" />
       <item value="精彩项目" />
-      <item value="maintenance" />
-      <item value="Memb" />
-      <item value="Abutment" />
-      <item value="judge" />
-      <item value="cause" />
-      <item value="Unchecked call to 'buildGaUser(T)' as a member of raw type 'com.kuka.kukasys.model.transfer.KukaModelTransfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deal Line" />
       <item value="transfer" />
       <item value="Result of 'String.split()' is ignored" />
       <item value="create membership: remove openid that already used" />
@@ -50,12 +51,11 @@
       <item value="Caller" />
       <item value="evaluate" />
       <item value="Evaluate" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="业务" />
+      <item value="biz" />
+      <item value="bizapi" />
+      <item value="outterapi" />
+      <item value="wrap" />
+      <item value="wrap api" />
+      <item value="wrapper api" />
+      <item value="wrapperapi" />
+      <item value="封装api" />
       <item value="interval" />
       <item value="Deprecated" />
       <item value="fault" />
@@ -42,20 +51,11 @@
       <item value="interactive" />
       <item value="Transfer" />
       <item value="local To Utc" />
-      <item value="utc To Local" />
-      <item value="field" />
-      <item value="customer exists check" />
-      <item value="checker" />
-      <item value="检查站" />
-      <item value="Secs" />
-      <item value="Millis" />
-      <item value="Millions" />
-      <item value="Mills" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -65,12 +65,14 @@
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="3" />
         <entry key="CATALAN" value="2" />
+        <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="4" />
+        <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="SLOVENIAN" value="3" />
         <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="TURKISH" value="1" />
+        <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="3" />

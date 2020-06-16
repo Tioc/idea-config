@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
       <item value="Deprecated" />
       <item value="fault" />
       <item value="res" />
@@ -50,12 +51,11 @@
       <item value="Millis" />
       <item value="Millions" />
       <item value="Mills" />
-      <item value="System.out.println(Local Date Time.now().to Instant(Zone Offset.UTC));" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

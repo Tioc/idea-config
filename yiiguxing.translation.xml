@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deliver" />
       <item value="业务" />
       <item value="biz" />
       <item value="bizapi" />
@@ -50,12 +51,11 @@
       <item value="interaction" />
       <item value="interactive" />
       <item value="Transfer" />
-      <item value="local To Utc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

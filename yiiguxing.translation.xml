@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deliver" />
       <item value="Campaign" />
       <item value="redundant" />
       <item value="re Handle" />
       <item value="MAX RETRY NUM" />
-      <item value="deliver" />
       <item value="业务" />
       <item value="biz" />
       <item value="bizapi" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

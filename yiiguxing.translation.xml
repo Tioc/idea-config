@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="客服" />
+      <item value="SERV" />
       <item value="payload" />
       <item value="serv" />
       <item value="Retail Customer Transfer" />
@@ -49,13 +51,11 @@
       <item value="transform" />
       <item value="transform Membership Info To Customer Info For Create" />
       <item value="transfo" />
-      <item value="transfor" />
-      <item value="init variable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="343" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reporting" />
       <item value="fatal" />
       <item value="missing-topics-fatal" />
       <item value="retail order end alert" />
@@ -50,12 +51,11 @@
       <item value="retail" />
       <item value="Retail" />
       <item value="model" />
-      <item value="retail deal model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

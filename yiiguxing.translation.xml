@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Precondition" />
       <item value="spring.datasource.initialization-mode" />
       <item value="embedded" />
       <item value="Accquire" />
@@ -50,12 +51,11 @@
       <item value="已收货" />
       <item value="Serv Call Back Result Listener" />
       <item value="客服" />
-      <item value="SERV" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,10 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="type" />
+      <item value="serial No" />
+      <item value="serial" />
+      <item value="序号" />
+      <item value="sort Number" />
+      <item value="sort No" />
+      <item value="order No" />
+      <item value="order by" />
+      <item value="order" />
+      <item value="NO" />
+      <item value="no" />
       <item value="keyword" />
-      <item value="Accessors" />
+      <item value="开始年月" />
       <item value="Accquire" />
+      <item value="type" />
+      <item value="Accessors" />
       <item value="Eason" />
       <item value="搜索内容" />
       <item value="记录" />
@@ -40,31 +51,20 @@
       <item value="payload" />
       <item value="serv" />
       <item value="Retail Customer Transfer" />
-      <item value="dimensions" />
-      <item value="Dimension" />
-      <item value="reason" />
-      <item value="buyer" />
-      <item value="shipping" />
-      <item value="ship" />
-      <item value="deliver" />
-      <item value="Campaign" />
-      <item value="redundant" />
-      <item value="re Handle" />
-      <item value="MAX RETRY NUM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="FINNISH" value="3" />
-        <entry key="CATALAN" value="2" />
+        <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="4" />

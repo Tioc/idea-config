@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crossdomain" />
       <item value="Accessors" />
       <item value="Precondition" />
       <item value="spring.datasource.initialization-mode" />
@@ -50,12 +51,11 @@
       <item value="TO RECEIVE" />
       <item value="已收货" />
       <item value="Serv Call Back Result Listener" />
-      <item value="客服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

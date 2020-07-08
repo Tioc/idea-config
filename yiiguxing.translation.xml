@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accquire" />
+      <item value="获取" />
       <item value="serial No" />
       <item value="serial" />
       <item value="序号" />
@@ -13,7 +15,6 @@
       <item value="no" />
       <item value="keyword" />
       <item value="开始年月" />
-      <item value="Accquire" />
       <item value="type" />
       <item value="Accessors" />
       <item value="Eason" />
@@ -50,11 +51,10 @@
       <item value="SERV" />
       <item value="payload" />
       <item value="serv" />
-      <item value="Retail Customer Transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
+        <entry key="CHINESE" value="388" />
         <entry key="ENGLISH" value="388" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -62,7 +62,7 @@
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />

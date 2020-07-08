@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type" />
+      <item value="keyword" />
       <item value="Accessors" />
       <item value="Accquire" />
       <item value="Eason" />
-      <item value="keyword" />
       <item value="搜索内容" />
       <item value="记录" />
       <item value="disinfection" />
@@ -50,12 +51,11 @@
       <item value="redundant" />
       <item value="re Handle" />
       <item value="MAX RETRY NUM" />
-      <item value="业务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accessors" />
       <item value="Accquire" />
       <item value="Eason" />
       <item value="keyword" />
@@ -50,19 +51,18 @@
       <item value="re Handle" />
       <item value="MAX RETRY NUM" />
       <item value="业务" />
-      <item value="biz" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FINNISH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="CORSICAN" value="1" />

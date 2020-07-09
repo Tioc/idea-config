@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do nothing when customerId == null" />
+      <item value="skip when customerId == null" />
+      <item value="skip after when customerId == null" />
+      <item value="skip next when customerId == null" />
       <item value="constant" />
       <item value="embedded" />
       <item value="crossdomain" />
@@ -47,15 +51,11 @@
       <item value="Suc" />
       <item value="待发货" />
       <item value="待收货" />
-      <item value="TO BE RECEIVED" />
-      <item value="TO BE RECEIVE" />
-      <item value="TO RECEIVE" />
-      <item value="已收货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="400" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

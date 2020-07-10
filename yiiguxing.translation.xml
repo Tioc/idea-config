@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Set" />
+      <item value="Non Mq Api" />
       <item value="Mq Api Set" />
+      <item value="Set" />
       <item value="mq Api Set" />
       <item value="non Mq Api" />
       <item value="非" />
@@ -50,11 +51,10 @@
       <item value="fatal" />
       <item value="missing-topics-fatal" />
       <item value="retail order end alert" />
-      <item value="retail order remove tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
+        <entry key="CHINESE" value="401" />
         <entry key="ENGLISH" value="401" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -64,7 +64,7 @@
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="3" />
-        <entry key="GUJARATI" value="2" />
+        <entry key="GUJARATI" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -75,7 +75,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="4" />
       </map>

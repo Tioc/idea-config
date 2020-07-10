@@ -10,6 +10,10 @@
           <option name="url" value="ssh://git@gitlab.cd.xsio.cn:22222/kukahome/kukahomescrmweb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ketongtx.com" />
+          <option name="userName" value="wedxiaodu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\chent\IdeaProjects" />

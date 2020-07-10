@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set" />
+      <item value="Mq Api Set" />
+      <item value="mq Api Set" />
+      <item value="non Mq Api" />
+      <item value="非" />
       <item value="do nothing when customerId == null" />
       <item value="skip when customerId == null" />
       <item value="skip after when customerId == null" />
@@ -46,16 +51,11 @@
       <item value="missing-topics-fatal" />
       <item value="retail order end alert" />
       <item value="retail order remove tag" />
-      <item value="relation" />
-      <item value="Cause" />
-      <item value="Suc" />
-      <item value="待发货" />
-      <item value="待收货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -64,6 +64,7 @@
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="3" />
+        <entry key="GUJARATI" value="2" />
         <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -74,6 +75,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="4" />
       </map>

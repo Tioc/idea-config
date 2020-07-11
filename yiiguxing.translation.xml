@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loop pic" />
+      <item value="循环" />
+      <item value="round play pic" />
+      <item value="round pic" />
+      <item value="轮播图片" />
+      <item value="图" />
+      <item value="轮" />
+      <item value="轮播图" />
+      <item value="轮播" />
       <item value="二级分类" />
       <item value="Initializing Spring embedded WebApplicationContext" />
       <item value="initial-size" />
@@ -42,20 +51,11 @@
       <item value="order" />
       <item value="NO" />
       <item value="no" />
-      <item value="keyword" />
-      <item value="开始年月" />
-      <item value="type" />
-      <item value="Eason" />
-      <item value="搜索内容" />
-      <item value="记录" />
-      <item value="disinfection" />
-      <item value="portal" />
-      <item value="wise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

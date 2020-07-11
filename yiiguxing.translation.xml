@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sub Type" />
+      <item value="subtype" />
       <item value="exception message" />
       <item value="DECRYPT" />
       <item value="Exception" />
@@ -49,13 +51,11 @@
       <item value="schema" />
       <item value="mode" />
       <item value="initialization" />
-      <item value="skip create when order already exists" />
-      <item value="skip create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

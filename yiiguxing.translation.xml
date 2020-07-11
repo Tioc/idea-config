@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二级分类" />
       <item value="Initializing Spring embedded WebApplicationContext" />
       <item value="initial-size" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
@@ -50,11 +51,10 @@
       <item value="disinfection" />
       <item value="portal" />
       <item value="wise" />
-      <item value="Bearer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
+        <entry key="CHINESE" value="413" />
         <entry key="ENGLISH" value="413" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

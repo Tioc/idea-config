@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scroll banner" />
+      <item value="Roll Banner" />
       <item value="adminuser" />
       <item value="Publish" />
       <item value="Acquire" />
       <item value="Roll" />
       <item value="scroll Banner" />
       <item value="Banner" />
-      <item value="Roll Banner" />
       <item value="roll banner" />
       <item value="loop pic" />
       <item value="循环" />
@@ -50,12 +51,11 @@
       <item value="Accquire" />
       <item value="获取" />
       <item value="serial No" />
-      <item value="serial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

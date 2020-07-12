@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extension Name" />
+      <item value="extention" />
       <item value="scroll banner" />
       <item value="Roll Banner" />
       <item value="adminuser" />
@@ -49,13 +51,11 @@
       <item value="Precondition" />
       <item value="spring.datasource.initialization-mode" />
       <item value="Accquire" />
-      <item value="获取" />
-      <item value="serial No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tag Transfer" />
+      <item value="gender field" />
+      <item value="'sex' field" />
+      <item value="sex field" />
       <item value="Absent" />
       <item value="Predicate" />
       <item value="extension Name" />
@@ -47,15 +51,11 @@
       <item value="skip after when customerId == null" />
       <item value="skip next when customerId == null" />
       <item value="constant" />
-      <item value="embedded" />
-      <item value="crossdomain" />
-      <item value="Accessors" />
-      <item value="Precondition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="area code translate" />
+      <item value="serv api area code translate" />
+      <item value="serv area code translate" />
+      <item value="translate" />
       <item value="call Kuka" />
       <item value="get Name By Code" />
       <item value="Tag Transfer" />
@@ -47,15 +51,11 @@
       <item value="Set" />
       <item value="mq Api Set" />
       <item value="non Mq Api" />
-      <item value="非" />
-      <item value="do nothing when customerId == null" />
-      <item value="skip when customerId == null" />
-      <item value="skip after when customerId == null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

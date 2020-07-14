@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="county" />
+      <item value="get Code Of PCC" />
       <item value="fix lazy load" />
       <item value="area code translate" />
       <item value="serv api area code translate" />
@@ -49,13 +51,11 @@
       <item value="常量" />
       <item value="Non Mq Api" />
       <item value="Mq Api Set" />
-      <item value="Set" />
-      <item value="mq Api Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

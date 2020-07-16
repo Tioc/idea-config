@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set field quantityTotal" />
+      <item value="set value to field" />
+      <item value="set value to field quantityTotal" />
+      <item value="set value for field quantityTotal" />
+      <item value="set value of field quantityTotal" />
+      <item value="field quantityTotal set value" />
+      <item value="field quantityTotal value" />
       <item value="quantity Total" />
       <item value="Deprecated" />
       <item value="sort" />
@@ -44,18 +51,11 @@
       <item value="图" />
       <item value="轮" />
       <item value="轮播图" />
-      <item value="轮播" />
-      <item value="二级分类" />
-      <item value="Initializing Spring embedded WebApplicationContext" />
-      <item value="initial-size" />
-      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
-      <item value="增量" />
-      <item value="sub Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

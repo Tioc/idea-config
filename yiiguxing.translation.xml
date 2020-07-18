@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="desc" />
       <item value="del Lines" />
       <item value="delete Lines" />
       <item value="clean Lines" />
@@ -50,12 +51,11 @@
       <item value="scroll banner" />
       <item value="Roll Banner" />
       <item value="adminuser" />
-      <item value="Publish" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

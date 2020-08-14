@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Raw use of parameterized class 'ResultDto'" />
+      <item value="Raw" />
       <item value="to Epoch Second" />
       <item value="Adress" />
       <item value="store Address" />
@@ -49,12 +51,10 @@
       <item value="translate" />
       <item value="call Kuka" />
       <item value="get Name By Code" />
-      <item value="Tag Transfer" />
-      <item value="gender field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
+        <entry key="CHINESE" value="486" />
         <entry key="ENGLISH" value="486" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

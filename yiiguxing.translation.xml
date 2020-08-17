@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISABLED" />
+      <item value="ENABLED" />
       <item value="baomidou" />
       <item value="Table Logic" />
       <item value="Interceptor" />
@@ -49,13 +51,11 @@
       <item value="sort NO" />
       <item value="sort No" />
       <item value="sort no" />
-      <item value="serial no" />
-      <item value="serial" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="ENGLISH" value="498" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合计" />
+      <item value="total Count" />
+      <item value="sum" />
+      <item value="sum Count" />
+      <item value="summary Count" />
+      <item value="keywords Count" />
+      <item value="searched Count" />
+      <item value="searched Cot" />
+      <item value="被搜索关键字计数" />
+      <item value="百分比" />
+      <item value="百分比的分子" />
+      <item value="clicked Count" />
+      <item value="总数" />
+      <item value="top Count" />
+      <item value="left Count" />
+      <item value="分子" />
+      <item value="count Of Searched" />
+      <item value="被搜索关键字数量" />
+      <item value="search Count" />
+      <item value="Accessors" />
+      <item value="Provide an alternative name for the model." />
+      <item value="Search Record Overview" />
+      <item value="总览" />
       <item value="disabled field" />
       <item value="Portal" />
       <item value="Unchecked generics array creation for varargs parameter" />
@@ -28,34 +51,11 @@
       <item value="shipped" />
       <item value="abs" />
       <item value="state" />
-      <item value="has" />
-      <item value="desc" />
-      <item value="del Lines" />
-      <item value="delete Lines" />
-      <item value="clean Lines" />
-      <item value="empty Lines" />
-      <item value="clear line" />
-      <item value="清除空" />
-      <item value="clean line" />
-      <item value="清空" />
-      <item value="source Line Id" />
-      <item value="source Order No" />
-      <item value="是否发送原因" />
-      <item value="field" />
-      <item value="trans" />
-      <item value="set field quantityTotal" />
-      <item value="set value to field" />
-      <item value="set value to field quantityTotal" />
-      <item value="set value for field quantityTotal" />
-      <item value="set value of field quantityTotal" />
-      <item value="field quantityTotal set value" />
-      <item value="field quantityTotal value" />
-      <item value="quantity Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="524" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mall event: province/city set to blank" />
+      <item value="mall event: province city set blank" />
       <item value="概览" />
       <item value="Search Record Overview" />
       <item value="Acquire Search Overview" />
@@ -49,13 +51,11 @@
       <item value="Raw" />
       <item value="to Epoch Second" />
       <item value="Adress" />
-      <item value="store Address" />
-      <item value="if empty lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="531" />
+        <entry key="ENGLISH" value="532" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

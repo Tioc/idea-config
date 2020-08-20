@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="don't display rows that contains '（）'" />
+      <item value="don't display cols that contains '（）'" />
+      <item value="contains" />
+      <item value="dont display rows that contains '（）'" />
       <item value="put If Absent" />
       <item value="field Extractor" />
       <item value="Predicate" />
@@ -47,15 +51,11 @@
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="miemie" />
       <item value="HCL" />
-      <item value="DISABLED" />
-      <item value="ENABLED" />
-      <item value="baomidou" />
-      <item value="Table Logic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
+      <item value="field Extractor" />
+      <item value="Predicate" />
+      <item value="search keyword condition" />
+      <item value="condition" />
+      <item value="filtrate" />
+      <item value="过滤" />
+      <item value="search keyword filter" />
+      <item value="filter" />
       <item value="acquire ratio environments" />
       <item value="log Msg" />
       <item value="client Log" />
@@ -42,20 +51,11 @@
       <item value="ENABLED" />
       <item value="baomidou" />
       <item value="Table Logic" />
-      <item value="Interceptor" />
-      <item value="consts" />
-      <item value="convert" />
-      <item value="transform" />
-      <item value="转换" />
-      <item value="datetime translate" />
-      <item value="translate" />
-      <item value="Constructs a &lt;code&gt;Timestamp&lt;/code&gt; object * using a milliseconds time value. The * integral seconds are stored in the underlying date value; the * fractional seconds are stored in the &lt;code&gt;nanos&lt;/code&gt; field of * the &lt;code&gt;Timestamp&lt;/code&gt; object. * * @param time milliseconds since January 1, 1970, 00:00:00 GMT. * A negative number is the number of milliseconds before * January 1, 1970, 00:00:00 GMT." />
-      <item value="Raw use of parameterized class 'ResultDto'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

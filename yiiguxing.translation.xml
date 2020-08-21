@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <histories>
       <item value="only Main Env" />
+      <item value="Env" />
+      <item value="select environments add param: onlyMainEnv" />
+      <item value="select environments add param" />
+      <item value="select environments add param onlyMainEnv" />
       <item value="主要场景" />
       <item value="is Main Env" />
       <item value="distinct" />
@@ -47,22 +51,18 @@
       <item value="分子" />
       <item value="count Of Searched" />
       <item value="被搜索关键字数量" />
-      <item value="search Count" />
-      <item value="Accessors" />
-      <item value="Provide an alternative name for the model." />
-      <item value="总览" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="558" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="FINNISH" value="4" />
         <entry key="GUJARATI" value="3" />
         <entry key="CATALAN" value="7" />

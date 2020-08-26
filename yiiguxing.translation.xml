@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Typo: In word 'keyname'" />
+      <item value="openid" />
       <item value="send phone code to kuka" />
       <item value="send-phone-code" />
       <item value="to Instant" />
@@ -49,13 +51,11 @@
       <item value="合计" />
       <item value="total Count" />
       <item value="sum" />
-      <item value="sum Count" />
-      <item value="summary Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="570" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

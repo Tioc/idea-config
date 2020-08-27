@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overwrite" />
+      <item value="verbose" />
       <item value="consts" />
       <item value="Enum Eg" />
       <item value="例子" />
@@ -49,13 +51,11 @@
       <item value="idle" />
       <item value="evictable" />
       <item value="eviction" />
-      <item value="time-between-eviction-runs-millis" />
-      <item value="allow-bean-definition-overriding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="600" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="602" />
+        <entry key="ENGLISH" value="603" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

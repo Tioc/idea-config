@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
+      <item value="consts" />
+      <item value="const" />
+      <item value="返回数据包" />
+      <item value="返回值" />
+      <item value="注解" />
+      <item value="anno" />
+      <item value="全局" />
+      <item value="global" />
       <item value="additivity" />
       <item value="jcraft" />
       <item value="ganymed" />
@@ -42,20 +51,11 @@
       <item value="select environments add param: onlyMainEnv" />
       <item value="select environments add param" />
       <item value="select environments add param onlyMainEnv" />
-      <item value="主要场景" />
-      <item value="is Main Env" />
-      <item value="distinct" />
-      <item value="去重标志" />
-      <item value="don't display rows that contains '（）'" />
-      <item value="don't display cols that contains '（）'" />
-      <item value="contains" />
-      <item value="dont display rows that contains '（）'" />
-      <item value="put If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="597" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -77,7 +77,7 @@
         <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="4" />
       </map>

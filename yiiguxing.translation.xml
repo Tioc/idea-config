@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consts" />
+      <item value="Enum Eg" />
+      <item value="例子" />
+      <item value="Eg" />
+      <item value="Eg Enum" />
       <item value="domain" />
       <item value="constant" />
-      <item value="consts" />
       <item value="const" />
       <item value="返回数据包" />
       <item value="返回值" />
@@ -47,15 +51,11 @@
       <item value="eviction" />
       <item value="time-between-eviction-runs-millis" />
       <item value="allow-bean-definition-overriding" />
-      <item value="only Main Env" />
-      <item value="Env" />
-      <item value="select environments add param: onlyMainEnv" />
-      <item value="select environments add param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

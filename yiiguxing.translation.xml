@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MODULAR NAME" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="This is deprecated" />
       <item value="set Table Prefix" />
@@ -50,12 +51,11 @@
       <item value="send phone code to kuka" />
       <item value="send-phone-code" />
       <item value="to Instant" />
-      <item value="auto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="610" />
+        <entry key="ENGLISH" value="611" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

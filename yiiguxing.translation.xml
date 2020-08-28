@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmapped Target Policy" />
+      <item value="component Model" />
       <item value="Accessors" />
       <item value="MODULAR NAME" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
@@ -49,13 +51,11 @@
       <item value="lesson" />
       <item value="Typo: In word 'keyname'" />
       <item value="openid" />
-      <item value="send phone code to kuka" />
-      <item value="send-phone-code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="614" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permission not allowed" />
+      <item value="App Res Code" />
+      <item value="返回状态码" />
       <item value="request Matchers" />
       <item value="In Memory" />
       <item value="authenticated" />
@@ -48,14 +51,11 @@
       <item value="DEP application is started" />
       <item value="DEP application home page" />
       <item value="has started" />
-      <item value="DEP application has started" />
-      <item value="DEP application have started" />
-      <item value="DEP application started" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

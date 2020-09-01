@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Response" />
+      <item value="Suppress Warnings" />
+      <item value="desc" />
       <item value="Res" />
       <item value="Api Res Code" />
       <item value="permission not allowed" />
@@ -48,14 +51,11 @@
       <item value="whvcse" />
       <item value="captcha" />
       <item value="mapstruct" />
-      <item value="ip 2 region" />
-      <item value="parent" />
-      <item value="DEP application is started" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="624" />
+        <entry key="ENGLISH" value="625" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

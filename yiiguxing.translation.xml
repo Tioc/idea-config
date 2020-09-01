@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALLOW PATTERNS" />
       <item value="client dep admin" />
       <item value="Session Creation Policy" />
       <item value="stateless" />
@@ -50,12 +51,11 @@
       <item value="全局" />
       <item value="global" />
       <item value="additivity" />
-      <item value="jcraft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

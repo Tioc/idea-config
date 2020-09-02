@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generator" />
       <item value="UNAUTHORIZED" />
       <item value="ALLOW PATTERNS" />
       <item value="client dep admin" />
@@ -32,7 +33,6 @@
       <item value="This is deprecated" />
       <item value="set Table Prefix" />
       <item value="set Controller Mapping Hyphen Style" />
-      <item value="generator" />
       <item value="did not assign a file to the build artifact" />
       <item value="suppress Date" />
       <item value="overwrite" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

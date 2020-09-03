@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Res" />
+      <item value="Api Res Dto" />
+      <item value="Responder" />
+      <item value="响应人" />
+      <item value="响应构建器" />
+      <item value="响应者" />
+      <item value="Response" />
       <item value="Qualifier" />
       <item value="write" />
       <item value="credentials Non Expired" />
@@ -44,18 +51,11 @@
       <item value="verbose" />
       <item value="consts" />
       <item value="Enum Eg" />
-      <item value="例子" />
-      <item value="Eg" />
-      <item value="Eg Enum" />
-      <item value="domain" />
-      <item value="constant" />
-      <item value="const" />
-      <item value="返回数据包" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="638" />
-        <entry key="ENGLISH" value="639" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -71,6 +71,7 @@
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="4" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVENIAN" value="4" />
         <entry key="SCOTS_GAELIC" value="1" />

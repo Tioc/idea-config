@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alert Msg Exception" />
+      <item value="Alert" />
+      <item value="Alter" />
+      <item value="弹出提示" />
+      <item value="提示用户" />
+      <item value="提示用户异常" />
       <item value="profile" />
       <item value="digest" />
       <item value="Crypt" />
@@ -45,23 +51,17 @@
       <item value="component Model" />
       <item value="Accessors" />
       <item value="MODULAR NAME" />
-      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="This is deprecated" />
-      <item value="set Table Prefix" />
-      <item value="set Controller Mapping Hyphen Style" />
-      <item value="did not assign a file to the build artifact" />
-      <item value="suppress Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="4" />
         <entry key="GUJARATI" value="3" />

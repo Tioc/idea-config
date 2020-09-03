@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trusted" />
+      <item value="app Host" />
       <item value="Accessors" />
       <item value="orion" />
       <item value="alert Msg" />
@@ -49,13 +51,11 @@
       <item value="request Matchers" />
       <item value="In Memory" />
       <item value="authenticated" />
-      <item value="allow patterns arr" />
-      <item value="allow Patterns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="658" />
+        <entry key="CHINESE" value="659" />
+        <entry key="ENGLISH" value="660" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

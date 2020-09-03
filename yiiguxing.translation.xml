@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="digest" />
       <item value="Crypt" />
       <item value="B Crypt" />
@@ -50,12 +51,11 @@
       <item value="set Controller Mapping Hyphen Style" />
       <item value="did not assign a file to the build artifact" />
       <item value="suppress Date" />
-      <item value="overwrite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

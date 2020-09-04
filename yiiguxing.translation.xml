@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre Post Enabled" />
       <item value="authorization Url" />
       <item value="validator" />
       <item value="extensions" />
@@ -50,12 +51,11 @@
       <item value="authorization" />
       <item value="Cors" />
       <item value="disposition" />
-      <item value="Api Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

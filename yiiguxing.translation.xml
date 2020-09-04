@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Exposed Header" />
       <item value="业务模型" />
       <item value="* Returns an immutable list containing only the specified object. * The returned list is serializable." />
       <item value="Returns an immutable list containing only the specified object. * The returned list is serializable." />
@@ -42,7 +43,6 @@
       <item value="authorization" />
       <item value="Cors" />
       <item value="disposition" />
-      <item value="add Exposed Header" />
       <item value="Api Response" />
       <item value="Suppress Warnings" />
       <item value="desc" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="ENGLISH" value="663" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trailer" />
+      <item value="get Trailer Fields" />
       <item value="attachment" />
       <item value="APPLICATION STREAM JSON" />
       <item value="ends With" />
@@ -49,13 +51,11 @@
       <item value="app Host" />
       <item value="Accessors" />
       <item value="orion" />
-      <item value="alert Msg" />
-      <item value="handle Method Argument Not Valid Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="700" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

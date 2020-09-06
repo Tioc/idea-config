@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aspect" />
+      <item value="Log Aspect" />
+      <item value="bearer" />
+      <item value="lookup" />
       <item value="oauth" />
       <item value="customize oauth return" />
       <item value="customize" />
@@ -13,7 +17,6 @@
       <item value="validator" />
       <item value="extensions" />
       <item value="flow Type" />
-      <item value="bearer" />
       <item value="bearer Token" />
       <item value="security References" />
       <item value="add Exposed Header" />
@@ -48,14 +51,11 @@
       <item value="credentials Non Expired" />
       <item value="account Non Locked" />
       <item value="account Non Expired" />
-      <item value="generator" />
-      <item value="UNAUTHORIZED" />
-      <item value="ALLOW PATTERNS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="681" />
+        <entry key="ENGLISH" value="682" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
+      <item value="val" />
+      <item value="Authorization" />
+      <item value="Auth" />
+      <item value="Constants" />
+      <item value="常量" />
       <item value="dep-auth" />
       <item value="auth" />
       <item value="DEP WORD" />
@@ -45,17 +51,11 @@
       <item value="弹出提示" />
       <item value="提示用户" />
       <item value="提示用户异常" />
-      <item value="profile" />
-      <item value="digest" />
-      <item value="Crypt" />
-      <item value="B Crypt" />
-      <item value="Api Res" />
-      <item value="Api Res Dto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -67,6 +67,7 @@
         <entry key="GUJARATI" value="3" />
         <entry key="CATALAN" value="8" />
         <entry key="CORSICAN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
@@ -80,7 +81,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
         <entry key="INDONESIAN" value="8" />
-        <entry key="VIETNAMESE" value="6" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>

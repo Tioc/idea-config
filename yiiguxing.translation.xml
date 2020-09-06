@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dep-auth" />
+      <item value="auth" />
+      <item value="DEP WORD" />
+      <item value="言灵" />
+      <item value="DEP AUTHWORD" />
+      <item value="DEP PASS" />
+      <item value="DEP PAS" />
+      <item value="authority" />
+      <item value="最高权限" />
       <item value="authorize Requests" />
       <item value="Aspect" />
       <item value="Log Aspect" />
@@ -42,27 +51,18 @@
       <item value="B Crypt" />
       <item value="Api Res" />
       <item value="Api Res Dto" />
-      <item value="Responder" />
-      <item value="响应人" />
-      <item value="响应构建器" />
-      <item value="响应者" />
-      <item value="Response" />
-      <item value="Qualifier" />
-      <item value="write" />
-      <item value="credentials Non Expired" />
-      <item value="account Non Locked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="682" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="CHINESE" value="689" />
+        <entry key="ENGLISH" value="689" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="9" />
+        <entry key="FRENCH" value="10" />
         <entry key="FINNISH" value="4" />
         <entry key="GUJARATI" value="3" />
         <entry key="CATALAN" value="8" />
@@ -80,7 +80,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
         <entry key="INDONESIAN" value="8" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>

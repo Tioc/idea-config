@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SERVER ID" />
       <item value="ordinal" />
       <item value="val" />
       <item value="Authorization" />
@@ -50,12 +51,11 @@
       <item value="Alter" />
       <item value="弹出提示" />
       <item value="提示用户" />
-      <item value="提示用户异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="694" />
-        <entry key="ENGLISH" value="695" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="696" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

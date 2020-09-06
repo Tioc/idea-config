@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logout" />
       <item value="Transient" />
       <item value="erase Credentials" />
       <item value="Trailer" />
@@ -50,12 +51,11 @@
       <item value="* Returns an immutable list containing only the specified object. * The returned list is serializable." />
       <item value="Returns an immutable list containing only the specified object. * The returned list is serializable." />
       <item value="trusted" />
-      <item value="app Host" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="705" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="706" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分中心" />
       <item value="Api Response" />
       <item value="logout" />
       <item value="Transient" />
@@ -50,11 +51,10 @@
       <item value="add Exposed Header" />
       <item value="业务模型" />
       <item value="* Returns an immutable list containing only the specified object. * The returned list is serializable." />
-      <item value="Returns an immutable list containing only the specified object. * The returned list is serializable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="706" />
+        <entry key="CHINESE" value="707" />
         <entry key="ENGLISH" value="707" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

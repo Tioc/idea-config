@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Servlet Web Server Factory" />
+      <item value="relaxed Query Chars" />
       <item value="scrmpoint" />
       <item value="cache" />
       <item value="processor" />
@@ -49,13 +51,11 @@
       <item value="bearer" />
       <item value="lookup" />
       <item value="oauth" />
-      <item value="customize oauth return" />
-      <item value="customize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="CHINESE" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

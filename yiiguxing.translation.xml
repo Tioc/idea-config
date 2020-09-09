@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="POINTS" />
+      <item value="POINTMALL" />
+      <item value="KUKA POINTMALL CREATE MEMBER" />
+      <item value="POINTSMALL" />
       <item value="积分商城" />
       <item value="trans" />
       <item value="trans Data" />
@@ -47,15 +51,11 @@
       <item value="dep-auth" />
       <item value="auth" />
       <item value="DEP WORD" />
-      <item value="言灵" />
-      <item value="DEP AUTHWORD" />
-      <item value="DEP PASS" />
-      <item value="DEP PAS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="728" />
+        <entry key="CHINESE" value="731" />
+        <entry key="ENGLISH" value="732" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

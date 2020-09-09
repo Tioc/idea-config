@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trans" />
+      <item value="trans Data" />
       <item value="reverse" />
       <item value="Cors" />
       <item value="积分" />
@@ -49,13 +51,11 @@
       <item value="DEP PASS" />
       <item value="DEP PAS" />
       <item value="authority" />
-      <item value="最高权限" />
-      <item value="authorize Requests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="725" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="CHINESE" value="727" />
+        <entry key="ENGLISH" value="728" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

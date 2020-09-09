@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分商城" />
       <item value="trans" />
       <item value="trans Data" />
       <item value="reverse" />
@@ -50,11 +51,10 @@
       <item value="DEP AUTHWORD" />
       <item value="DEP PASS" />
       <item value="DEP PAS" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="727" />
+        <entry key="CHINESE" value="728" />
         <entry key="ENGLISH" value="728" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

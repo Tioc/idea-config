@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="orion" />
+      <item value="auth" />
       <item value="POINTS" />
       <item value="POINTMALL" />
       <item value="KUKA POINTMALL CREATE MEMBER" />
@@ -49,13 +51,11 @@
       <item value="Constants" />
       <item value="常量" />
       <item value="dep-auth" />
-      <item value="auth" />
-      <item value="DEP WORD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="734" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

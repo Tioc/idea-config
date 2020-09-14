@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="industry" />
       <item value="orion" />
       <item value="auth" />
       <item value="POINTS" />
@@ -50,12 +51,11 @@
       <item value="Auth" />
       <item value="Constants" />
       <item value="常量" />
-      <item value="dep-auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="735" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

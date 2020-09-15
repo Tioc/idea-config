@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Arg" />
+      <item value="Args" />
+      <item value="Page Args" />
+      <item value="Param" />
       <item value="Dealer" />
       <item value="responsible People" />
       <item value="Industry" />
@@ -47,15 +51,11 @@
       <item value="Trailer" />
       <item value="get Trailer Fields" />
       <item value="attachment" />
-      <item value="APPLICATION STREAM JSON" />
-      <item value="ends With" />
-      <item value="reduce" />
-      <item value="SERVER SECRET" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="744" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -72,8 +72,8 @@
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="5" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="4" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="TURKISH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="responsible People" />
       <item value="Industry" />
       <item value="get Epoch Second" />
       <item value="Instant" />
@@ -50,12 +51,11 @@
       <item value="reduce" />
       <item value="SERVER SECRET" />
       <item value="SERVER ID" />
-      <item value="ordinal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

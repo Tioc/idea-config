@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inject" />
       <item value="surefire" />
       <item value="Illegal Argument Exception" />
       <item value="Enumerable" />
@@ -37,7 +38,6 @@
       <item value="processor" />
       <item value="captcha" />
       <item value="User Agent Utils" />
-      <item value="inject" />
       <item value="ip 2 region" />
       <item value="Avatar" />
       <item value="OPTIONS" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="748" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enumerable" />
       <item value="Arg" />
       <item value="Args" />
       <item value="Page Args" />
@@ -50,12 +51,11 @@
       <item value="erase Credentials" />
       <item value="Trailer" />
       <item value="get Trailer Fields" />
-      <item value="attachment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

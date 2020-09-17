@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allowed Extensions" />
+      <item value="允许的扩展名" />
+      <item value="suffix" />
+      <item value="get Extension Name" />
+      <item value="Original" />
+      <item value="extensions" />
+      <item value="extension" />
+      <item value="未分类" />
       <item value="registered user push to guanai" />
       <item value="registered push to guanai" />
       <item value="registered" />
@@ -43,19 +51,11 @@
       <item value="Cors" />
       <item value="积分" />
       <item value="points" />
-      <item value="point" />
-      <item value="Servlet Web Server Factory" />
-      <item value="relaxed Query Chars" />
-      <item value="scrmpoint" />
-      <item value="cache" />
-      <item value="processor" />
-      <item value="captcha" />
-      <item value="User Agent Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="757" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

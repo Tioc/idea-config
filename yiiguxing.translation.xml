@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Order" />
+      <item value="身份" />
+      <item value="员工" />
+      <item value="Returns the elements of the specified sequence or the specified value in a singleton collection if the sequence is empty" />
       <item value="Contract" />
       <item value="allowed Extensions" />
       <item value="允许的扩展名" />
@@ -47,15 +51,11 @@
       <item value="POINTSMALL" />
       <item value="积分商城" />
       <item value="trans" />
-      <item value="trans Data" />
-      <item value="reverse" />
-      <item value="Cors" />
-      <item value="积分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="766" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

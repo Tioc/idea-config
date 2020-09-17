@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="registered user push to guanai" />
+      <item value="registered push to guanai" />
+      <item value="registered" />
+      <item value="注册" />
+      <item value="register" />
       <item value="upload File" />
       <item value="Redundant suppression" />
       <item value="avatar" />
@@ -46,16 +51,11 @@
       <item value="processor" />
       <item value="captcha" />
       <item value="User Agent Utils" />
-      <item value="ip 2 region" />
-      <item value="OPTIONS" />
-      <item value="secured" />
-      <item value="secured Enabled" />
-      <item value="authorize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="752" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

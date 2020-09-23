@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guanai Login" />
+      <item value="guanai Push" />
+      <item value="Pull Member" />
+      <item value="Pull" />
+      <item value="guanai Pull Member" />
       <item value="修改为员工" />
       <item value="Order" />
       <item value="身份" />
@@ -46,16 +51,11 @@
       <item value="industry" />
       <item value="orion" />
       <item value="auth" />
-      <item value="POINTS" />
-      <item value="POINTMALL" />
-      <item value="KUKA POINTMALL CREATE MEMBER" />
-      <item value="POINTSMALL" />
-      <item value="积分商城" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="769" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -75,7 +75,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="4" />
-        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SCOTS_GAELIC" value="3" />
         <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />

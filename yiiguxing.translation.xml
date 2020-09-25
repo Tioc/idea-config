@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistic" />
+      <item value="Statistic" />
       <item value="get Canonical Path" />
       <item value="deja Vu" />
       <item value="malformed" />
@@ -49,13 +51,11 @@
       <item value="responsible People" />
       <item value="Industry" />
       <item value="get Epoch Second" />
-      <item value="Instant" />
-      <item value="wise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

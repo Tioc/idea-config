@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
       <item value="Offiaccount" />
       <item value="Wei Xin Offiaccount Api" />
-      <item value="common" />
       <item value="Offi Account" />
       <item value="offiaccount" />
       <item value="External" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

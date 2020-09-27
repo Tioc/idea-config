@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duties" />
+      <item value="Addr" />
+      <item value="get Duties" />
       <item value="User Query Criteria" />
       <item value="operation" />
       <item value="url" />
@@ -48,14 +51,11 @@
       <item value="dealer" />
       <item value="inject" />
       <item value="surefire" />
-      <item value="Illegal Argument Exception" />
-      <item value="Enumerable" />
-      <item value="Arg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="778" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

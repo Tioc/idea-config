@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Offi Account" />
+      <item value="Wei Xin Offiaccount Api" />
+      <item value="offiaccount" />
+      <item value="External" />
+      <item value="外部平台" />
+      <item value="第三方平台" />
+      <item value="微信平台" />
       <item value="orion" />
       <item value="wechat" />
       <item value="Duties" />
@@ -44,18 +51,11 @@
       <item value="注册" />
       <item value="register" />
       <item value="upload File" />
-      <item value="Redundant suppression" />
-      <item value="avatar" />
-      <item value="Avatar" />
-      <item value="Tuple" />
-      <item value="Transactional" />
-      <item value="major" />
-      <item value="dealer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="782" />
-        <entry key="ENGLISH" value="783" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -73,6 +73,7 @@
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="JAPANESE" value="5" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="4" />
         <entry key="SCOTS_GAELIC" value="3" />

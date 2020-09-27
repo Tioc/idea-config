@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorities" />
+      <item value="auto Approve" />
       <item value="增量" />
       <item value="increment" />
       <item value="common" />
@@ -49,13 +51,11 @@
       <item value="extensions" />
       <item value="extension" />
       <item value="未分类" />
-      <item value="registered user push to guanai" />
-      <item value="registered push to guanai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

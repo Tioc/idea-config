@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Offi Account" />
+      <item value="Offiaccount" />
       <item value="Wei Xin Offiaccount Api" />
+      <item value="common" />
+      <item value="Offi Account" />
       <item value="offiaccount" />
       <item value="External" />
       <item value="外部平台" />
@@ -49,13 +51,11 @@
       <item value="registered push to guanai" />
       <item value="registered" />
       <item value="注册" />
-      <item value="register" />
-      <item value="upload File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="791" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

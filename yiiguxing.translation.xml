@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="third-party" />
       <item value="dep-third-party-auth" />
       <item value="dep third party auth" />
       <item value="write" />
@@ -50,12 +51,11 @@
       <item value="allowed Extensions" />
       <item value="允许的扩展名" />
       <item value="suffix" />
-      <item value="get Extension Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="799" />
+        <entry key="ENGLISH" value="800" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

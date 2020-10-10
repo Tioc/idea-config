@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redundant" />
       <item value="byte" />
       <item value="md 5 Digest As Hex" />
       <item value="to Hex String" />
@@ -50,11 +51,10 @@
       <item value="get Canonical Path" />
       <item value="deja Vu" />
       <item value="malformed" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
+        <entry key="CHINESE" value="816" />
         <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

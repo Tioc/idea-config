@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="byte" />
       <item value="md 5 Digest As Hex" />
       <item value="to Hex String" />
       <item value="starttls" />
@@ -50,12 +51,11 @@
       <item value="deja Vu" />
       <item value="malformed" />
       <item value="delegate" />
-      <item value="guanai Login" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

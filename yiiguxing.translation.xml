@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not an enclosing class" />
       <item value="Messaging Exception" />
       <item value="Credentials" />
       <item value="Delivery Method" />
@@ -50,11 +51,10 @@
       <item value="memberindustry" />
       <item value="微信浏览记录" />
       <item value="statistic" />
-      <item value="Statistic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="818" />
+        <entry key="CHINESE" value="819" />
         <entry key="ENGLISH" value="819" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

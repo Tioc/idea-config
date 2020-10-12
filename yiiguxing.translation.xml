@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluent Put" />
       <item value="Domian Name" />
       <item value="not an enclosing class" />
       <item value="Messaging Exception" />
@@ -50,12 +51,11 @@
       <item value="addr" />
       <item value="duties" />
       <item value="memberindustry" />
-      <item value="微信浏览记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="821" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

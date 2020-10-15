@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="district Array" />
+      <item value="flat" />
+      <item value="flat Map" />
       <item value="Technics" />
       <item value="工艺" />
       <item value="tb category article" />
@@ -48,14 +51,11 @@
       <item value="第三方平台" />
       <item value="微信平台" />
       <item value="orion" />
-      <item value="wechat" />
-      <item value="Duties" />
-      <item value="Addr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

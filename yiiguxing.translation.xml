@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="min-idle" />
+      <item value="allow-bean-definition-overriding" />
       <item value="district Array" />
       <item value="flat" />
       <item value="flat Map" />
@@ -49,13 +51,11 @@
       <item value="External" />
       <item value="外部平台" />
       <item value="第三方平台" />
-      <item value="微信平台" />
-      <item value="orion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="831" />
+        <entry key="ENGLISH" value="831" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -71,7 +71,7 @@
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
-        <entry key="NORWEGIAN" value="5" />
+        <entry key="NORWEGIAN" value="6" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="5" />
         <entry key="SWEDISH" value="2" />

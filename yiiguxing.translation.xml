@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gift Voucher Holder" />
+      <item value="Holder" />
+      <item value="礼品劵" />
+      <item value="Voucher" />
+      <item value="礼劵" />
+      <item value="Gift Voucher" />
       <item value="channel" />
       <item value="vhall" />
       <item value="inituser" />
@@ -45,17 +51,11 @@
       <item value="access Token" />
       <item value="Request Holder" />
       <item value="set Max Inactive Interval" />
-      <item value="SERVER AUTH" />
-      <item value="THIRD PARTY AUTH" />
-      <item value="authorities" />
-      <item value="third-party" />
-      <item value="dep-third-party-auth" />
-      <item value="dep third party auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="843" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="851" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

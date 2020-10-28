@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default Member" />
+      <item value="def" />
       <item value="Max Count" />
       <item value="Max Time" />
       <item value="Type may be primitive" />
@@ -49,13 +51,11 @@
       <item value="byte" />
       <item value="md 5 Digest As Hex" />
       <item value="to Hex String" />
-      <item value="starttls" />
-      <item value="tls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

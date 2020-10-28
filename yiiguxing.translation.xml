@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'generateKey(String, String, String)' clashes with 'generateKey(String, String, String)'; both methods have same erasure" />
       <item value="Pad Left" />
       <item value="Gift Voucher Holder" />
       <item value="Holder" />
@@ -50,11 +51,10 @@
       <item value="openid" />
       <item value="authorize" />
       <item value="access Token" />
-      <item value="Request Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
+        <entry key="CHINESE" value="852" />
         <entry key="ENGLISH" value="852" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

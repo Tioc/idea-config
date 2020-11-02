@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MEMBER" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Bean instantiation via factory method failed" />
       <item value="Call to 'substring' is redundant" />
@@ -50,12 +51,11 @@
       <item value="Materials Api" />
       <item value="Mapped Statements collection" />
       <item value="Mapped Statements" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="877" />
-        <entry key="ENGLISH" value="878" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="879" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

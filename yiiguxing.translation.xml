@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
+      <item value="interior" />
       <item value="浏览器接口" />
       <item value="cal Duration" />
       <item value="Duration" />
@@ -39,7 +41,6 @@
       <item value="Modifier 'static' is redundant for inner interfaces" />
       <item value="request.get Request URI()" />
       <item value="orion" />
-      <item value="external" />
       <item value="Materials Api" />
       <item value="Mapped Statements collection" />
       <item value="Mapped Statements" />
@@ -50,12 +51,11 @@
       <item value="district Array" />
       <item value="flat" />
       <item value="flat Map" />
-      <item value="Technics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="870" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="871" />
+        <entry key="ENGLISH" value="872" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

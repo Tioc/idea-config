@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="浏览器接口" />
+      <item value="cal Duration" />
+      <item value="Duration" />
+      <item value="cal" />
       <item value="channel" />
       <item value="full File Or Dir Path" />
       <item value="Absolute" />
@@ -47,15 +51,11 @@
       <item value="flat" />
       <item value="flat Map" />
       <item value="Technics" />
-      <item value="工艺" />
-      <item value="tb category article" />
-      <item value="Logic" />
-      <item value="success With Msg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="866" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="870" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -65,7 +65,7 @@
         <entry key="FRENCH" value="11" />
         <entry key="FINNISH" value="4" />
         <entry key="GUJARATI" value="3" />
-        <entry key="CATALAN" value="9" />
+        <entry key="CATALAN" value="10" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />

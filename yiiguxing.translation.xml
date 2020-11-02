@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="moldes" />
       <item value="MEMBER" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Bean instantiation via factory method failed" />
@@ -50,11 +51,10 @@
       <item value="orion" />
       <item value="Materials Api" />
       <item value="Mapped Statements collection" />
-      <item value="Mapped Statements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="878" />
+        <entry key="CHINESE" value="879" />
         <entry key="ENGLISH" value="879" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -74,7 +74,7 @@
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="6" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="5" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="5" />

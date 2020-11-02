@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Call to 'substring' is redundant" />
+      <item value="secretkey" />
+      <item value="secret" />
+      <item value="0 x FF" />
       <item value="external" />
       <item value="interior" />
       <item value="浏览器接口" />
@@ -47,15 +51,11 @@
       <item value="optional" />
       <item value="absolute file path" />
       <item value="min-idle" />
-      <item value="allow-bean-definition-overriding" />
-      <item value="district Array" />
-      <item value="flat" />
-      <item value="flat Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="871" />
-        <entry key="ENGLISH" value="872" />
+        <entry key="CHINESE" value="875" />
+        <entry key="ENGLISH" value="875" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

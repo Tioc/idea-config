@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="full File Or Dir Path" />
+      <item value="Absolute" />
       <item value="Local variable 'customer' is redundant" />
       <item value="peek" />
       <item value="Date Pattern" />
@@ -49,13 +51,11 @@
       <item value="tb category article" />
       <item value="Logic" />
       <item value="success With Msg" />
-      <item value="nation Code" />
-      <item value="is Present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="865" />
+        <entry key="ENGLISH" value="866" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

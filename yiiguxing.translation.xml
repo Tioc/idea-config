@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal Argument Exception" />
       <item value="moldes" />
       <item value="MEMBER" />
       <item value="Unsatisfied Dependency Exception" />
@@ -50,12 +51,11 @@
       <item value="request.get Request URI()" />
       <item value="orion" />
       <item value="Materials Api" />
-      <item value="Mapped Statements collection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="879" />
-        <entry key="ENGLISH" value="879" />
+        <entry key="ENGLISH" value="880" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interior" />
       <item value="Illegal Argument Exception" />
       <item value="moldes" />
       <item value="MEMBER" />
@@ -11,7 +12,6 @@
       <item value="secret" />
       <item value="0 x FF" />
       <item value="external" />
-      <item value="interior" />
       <item value="浏览器接口" />
       <item value="cal Duration" />
       <item value="Duration" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="879" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="881" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

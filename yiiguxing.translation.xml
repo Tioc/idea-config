@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXTERNAL" />
       <item value="base Package Classes" />
       <item value="assignable Types" />
       <item value="send sms" />
@@ -50,12 +51,11 @@
       <item value="礼劵" />
       <item value="Gift Voucher" />
       <item value="vhall" />
-      <item value="inituser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="888" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

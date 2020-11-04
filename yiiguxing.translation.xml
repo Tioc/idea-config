@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="base Package Classes" />
+      <item value="assignable Types" />
+      <item value="send sms" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="Third Party" />
       <item value="From" />
@@ -48,14 +51,11 @@
       <item value="Gift Voucher" />
       <item value="vhall" />
       <item value="inituser" />
-      <item value="webinar" />
-      <item value="Tuple" />
-      <item value="Modifier 'static' is redundant for inner interfaces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="886" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

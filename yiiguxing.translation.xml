@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has been removed" />
+      <item value="The fragment in dispatch path" />
       <item value="setting" />
       <item value="Create run configurations and run JMeter tests from Intellij IDEA" />
       <item value="原" />
@@ -49,13 +51,11 @@
       <item value="channel" />
       <item value="full File Or Dir Path" />
       <item value="Absolute" />
-      <item value="Local variable 'customer' is redundant" />
-      <item value="peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="911" />
+        <entry key="ENGLISH" value="912" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

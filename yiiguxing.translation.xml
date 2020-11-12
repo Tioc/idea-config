@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="href" />
       <item value="has been removed" />
       <item value="The fragment in dispatch path" />
       <item value="setting" />
@@ -50,12 +51,11 @@
       <item value="cal" />
       <item value="channel" />
       <item value="full File Or Dir Path" />
-      <item value="Absolute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="912" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="913" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

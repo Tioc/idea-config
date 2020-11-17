@@ -13,6 +13,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
     <mask>*.html</mask>
   </component>
 </application>

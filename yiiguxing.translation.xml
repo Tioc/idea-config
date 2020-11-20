@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clear Run As Identities Internal" />
       <item value="principals" />
       <item value="respond" />
       <item value="href" />
@@ -50,12 +51,11 @@
       <item value="浏览器接口" />
       <item value="cal Duration" />
       <item value="Duration" />
-      <item value="cal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

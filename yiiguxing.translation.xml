@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="realm" />
       <item value="clear Run As Identities Internal" />
       <item value="principals" />
       <item value="respond" />
@@ -50,12 +51,11 @@
       <item value="external" />
       <item value="浏览器接口" />
       <item value="cal Duration" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

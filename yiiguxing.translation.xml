@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trigger" />
+      <item value="layui" />
       <item value="stub" />
       <item value="ancestors" />
       <item value="table Alias" />
@@ -49,13 +51,11 @@
       <item value="Unsatisfied Dependency Exception" />
       <item value="Bean instantiation via factory method failed" />
       <item value="Call to 'substring' is redundant" />
-      <item value="secretkey" />
-      <item value="secret" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="918" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="CHINESE" value="920" />
+        <entry key="ENGLISH" value="920" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

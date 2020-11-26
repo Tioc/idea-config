@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shinsoft" />
       <item value="Accural" />
       <item value="Accrual" />
       <item value="capex" />
@@ -50,7 +51,6 @@
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="Third Party" />
       <item value="From" />
-      <item value="interior" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="6" />
         <entry key="PORTUGUESE" value="3" />
-        <entry key="JAPANESE" value="7" />
+        <entry key="JAPANESE" value="8" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="5" />
         <entry key="SCOTS_GAELIC" value="3" />

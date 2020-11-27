@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain Amount" />
+      <item value="剩余" />
+      <item value="剩余金额" />
       <item value="shinsoft" />
       <item value="Accural" />
       <item value="Accrual" />
@@ -48,14 +51,11 @@
       <item value="base Package Classes" />
       <item value="assignable Types" />
       <item value="send sms" />
-      <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
-      <item value="Third Party" />
-      <item value="From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="925" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PR No and PR Plan ID can not be null." />
+      <item value="PR No and PR Plan ID can not be null" />
       <item value="related" />
       <item value="关联" />
       <item value="Accural" />
@@ -49,13 +51,11 @@
       <item value="Webinar" />
       <item value="Api List" />
       <item value="Api Set" />
-      <item value="EXTERNAL" />
-      <item value="base Package Classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

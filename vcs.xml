@@ -18,9 +18,13 @@
           <option name="url" value="git@gitee.com:fengshuang/DEP_WeChat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:flyxia2017_admin/cr-dashboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\chent\Documents\WicProject" />
+    <option name="cloneParentDir" value="D:\wicrenet project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

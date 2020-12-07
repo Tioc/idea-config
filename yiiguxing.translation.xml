@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resource Chang" />
       <item value="fragment" />
       <item value="关联" />
       <item value="related" />
@@ -50,11 +51,10 @@
       <item value="Async" />
       <item value="Canonical" />
       <item value="get Canonical File" />
-      <item value="get Absolute Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="944" />
+        <entry key="CHINESE" value="946" />
         <entry key="ENGLISH" value="945" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

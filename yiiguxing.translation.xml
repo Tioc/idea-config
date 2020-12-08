@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="作废" />
       <item value="other Opt" />
       <item value="CR" />
       <item value="变更" />
@@ -50,11 +51,10 @@
       <item value="原本的" />
       <item value="原有的" />
       <item value="本文件名" />
-      <item value="原文件名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
+        <entry key="CHINESE" value="948" />
         <entry key="ENGLISH" value="948" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

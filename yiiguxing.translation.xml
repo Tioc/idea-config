@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has same" />
+      <item value="Have same" />
+      <item value="Have intersection" />
+      <item value="有交集" />
+      <item value="相交" />
+      <item value="has intersection" />
+      <item value="DROP FUNCTION IF EXISTS  `INTE_ARRAY`;   delimiter //   -- 集合交集检查函数   -- @param varchar(255) setA A 集合 如 &quot;1,3,5,9&quot;   -- @param varchar(255) setB B 集合 如 &quot;8,2,3,7&quot;   -- @return int(1) B 集合内单元在 A集合 内存在则返回 1 否则返回 0   CREATE FUNCTION `INTE_ARRAY` (setA varchar(255),setB varchar(255)) RETURNS int(1)   BEGIN       DECLARE idx INT DEFAULT 0 ; -- B 集合单元索引        DECLARE len INT DEFAULT 0;-- B 集合表达式长度       DECLARE llen INT DEFAULT 0;-- 最后检查位置       DECLARE clen INT DEFAULT 0;-- 当前检查位置       DECLARE tmpStr varchar(255);-- 临时检查数据集       DECLARE curt varchar(255);-- B 当前检查的单元       SET len = LENGTH(setB);       WHILE idx &lt; len DO           SET idx = idx + 1;           SET tmpStr = SUBSTRING_INDEX(setB,&quot;,&quot;,idx);           SET clen = LENGTH(tmpStr);   -- 获取当前 setB 中的单元           IF idx = 1 THEN SET curt = tmpStr;           ELSE SET curt = SUBSTRING(setB,llen+2,clen-llen-1);           END IF;   -- 检查是否存在于 setA 中           IF FIND_IN_SET(curt,setA) &gt; 0 THEN RETURN 1;           END IF;   -- 当前检查终点与上次检查终点相同则跳出           IF clen &lt;= llen THEN RETURN 0;           END IF;            SET llen = clen;       END WHILE;       RETURN 0;   END;   //   delimiter ; " />
+      <item value="has same ele" />
+      <item value="has_same_ele" />
+      <item value="has same element" />
+      <item value="is intersect" />
+      <item value="intersect" />
+      <item value="be intersection" />
+      <item value="is intersection" />
+      <item value="has Intersection" />
+      <item value="have Intersection" />
+      <item value="has section" />
+      <item value="Intersection" />
+      <item value="交集" />
+      <item value="有相同元素" />
+      <item value="has mixed" />
+      <item value=" intersection" />
       <item value="Budget Controller" />
       <item value="mod" />
       <item value="permission" />
@@ -29,33 +51,11 @@
       <item value="组合id" />
       <item value="grid" />
       <item value="Missing associated label" />
-      <item value="Expression statement is not assignment or call" />
-      <item value="peek" />
-      <item value="depts" />
-      <item value="未删除子部门" />
-      <item value="module" />
-      <item value="PR No and PR Plan ID can not be null." />
-      <item value="PR No and PR Plan ID can not be null" />
-      <item value="Accural" />
-      <item value="remain Amount" />
-      <item value="剩余" />
-      <item value="剩余金额" />
-      <item value="shinsoft" />
-      <item value="Accrual" />
-      <item value="capex" />
-      <item value="budget" />
-      <item value="DRAG" />
-      <item value="dragger" />
-      <item value="trigger" />
-      <item value="layui" />
-      <item value="stub" />
-      <item value="ancestors" />
-      <item value="table Alias" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="960" />
+        <entry key="CHINESE" value="974" />
+        <entry key="ENGLISH" value="975" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

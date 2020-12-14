@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注释" />
       <item value="email List" />
       <item value="emails" />
       <item value="has same" />
@@ -50,11 +51,10 @@
       <item value="text-nowrap" />
       <item value="show Toggle" />
       <item value="uid" />
-      <item value="组合id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="976" />
+        <entry key="CHINESE" value="977" />
         <entry key="ENGLISH" value="977" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

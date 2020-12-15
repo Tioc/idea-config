@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="add Attachment" />
       <item value="注释" />
+      <item value="comment" />
+      <item value="business admin" />
+      <item value="add Attachment" />
       <item value="email List" />
       <item value="emails" />
       <item value="has same" />
@@ -49,13 +51,11 @@
       <item value="Resource Chang" />
       <item value="fragment" />
       <item value="关联" />
-      <item value="text-nowrap" />
-      <item value="show Toggle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="980" />
+        <entry key="ENGLISH" value="980" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

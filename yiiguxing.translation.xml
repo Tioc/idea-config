@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
+      <item value="subtract" />
+      <item value="divide" />
+      <item value="Eur" />
+      <item value="peek" />
       <item value="is Online" />
       <item value="上线" />
       <item value="online" />
@@ -46,16 +51,11 @@
       <item value="add Related" />
       <item value="EUR" />
       <item value="escape" />
-      <item value="striped" />
-      <item value="side Pagination" />
-      <item value="console" />
-      <item value="related" />
-      <item value="作废" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="983" />
-        <entry key="ENGLISH" value="984" />
+        <entry key="CHINESE" value="987" />
+        <entry key="ENGLISH" value="987" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -77,7 +77,7 @@
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="8" />
         <entry key="SWEDISH" value="2" />
-        <entry key="SLOVAK" value="1" />
+        <entry key="SLOVAK" value="2" />
         <entry key="SLOVENIAN" value="5" />
         <entry key="SCOTS_GAELIC" value="3" />
         <entry key="TURKISH" value="2" />

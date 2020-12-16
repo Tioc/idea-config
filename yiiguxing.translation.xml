@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Online" />
+      <item value="上线" />
+      <item value="online" />
+      <item value="线上" />
+      <item value="Refer" />
+      <item value="goldshuo" />
       <item value="注释" />
       <item value="comment" />
       <item value="business admin" />
@@ -45,17 +51,11 @@
       <item value="console" />
       <item value="related" />
       <item value="作废" />
-      <item value="other Opt" />
-      <item value="CR" />
-      <item value="变更" />
-      <item value="Resource Chang" />
-      <item value="fragment" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="CHINESE" value="983" />
+        <entry key="ENGLISH" value="984" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

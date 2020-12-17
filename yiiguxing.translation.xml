@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="budget type" />
       <item value="Eur To Cny Rate" />
       <item value="remain Amount" />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
@@ -50,12 +51,11 @@
       <item value="unstage" />
       <item value="Related" />
       <item value="add Rel" />
-      <item value="add Related" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

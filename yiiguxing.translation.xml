@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="candidate" />
+      <item value="qualifies" />
+      <item value="least" />
+      <item value="expected" />
+      <item value="qualify" />
+      <item value="qualifying" />
+      <item value="Definition" />
+      <item value="nested" />
+      <item value="express" />
+      <item value="expressed" />
+      <item value="Unsatisfied" />
+      <item value="cycles" />
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotatprocessingion" />
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotation processing" />
       <item value="pull-pr-url" />
       <item value="uri" />
       <item value="pull Pr Info Job" />
@@ -37,25 +51,11 @@
       <item value="is intersect" />
       <item value="intersect" />
       <item value="be intersection" />
-      <item value="is intersection" />
-      <item value="has Intersection" />
-      <item value="have Intersection" />
-      <item value="has section" />
-      <item value="Intersection" />
-      <item value="交集" />
-      <item value="有相同元素" />
-      <item value="has mixed" />
-      <item value=" intersection" />
-      <item value="Budget Controller" />
-      <item value="mod" />
-      <item value="permission" />
-      <item value="p" />
-      <item value="人民币对欧元汇率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="991" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

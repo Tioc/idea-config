@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix" />
+      <item value="Origin Pr Info" />
       <item value="candidate" />
       <item value="qualifies" />
       <item value="least" />
@@ -49,13 +51,11 @@
       <item value="has_same_ele" />
       <item value="has same element" />
       <item value="is intersect" />
-      <item value="intersect" />
-      <item value="be intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

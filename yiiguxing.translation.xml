@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quote keyword" />
+      <item value="quote" />
+      <item value="keyword quote" />
+      <item value="引用" />
       <item value="jira" />
       <item value="Decimal" />
       <item value="Big Decimal" />
@@ -47,15 +51,11 @@
       <item value="emails" />
       <item value="has same" />
       <item value="Have same" />
-      <item value="Have intersection" />
-      <item value="有交集" />
-      <item value="相交" />
-      <item value="has intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1013" />
-        <entry key="ENGLISH" value="1013" />
+        <entry key="CHINESE" value="1016" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

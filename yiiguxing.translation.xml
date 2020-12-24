@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unescape" />
+      <item value="unescape Xml" />
       <item value="高等教育" />
       <item value="教育" />
       <item value="quote keyword" />
@@ -49,13 +51,11 @@
       <item value="comment" />
       <item value="business admin" />
       <item value="add Attachment" />
-      <item value="email List" />
-      <item value="emails" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1018" />
-        <entry key="ENGLISH" value="1018" />
+        <entry key="CHINESE" value="1020" />
+        <entry key="ENGLISH" value="1021" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

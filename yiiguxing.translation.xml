@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maximum" />
       <item value="Column 'id' in field list is ambiguous" />
       <item value="之前的" />
       <item value="原来的" />
@@ -50,12 +51,11 @@
       <item value="线上" />
       <item value="Refer" />
       <item value="goldshuo" />
-      <item value="注释" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1022" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

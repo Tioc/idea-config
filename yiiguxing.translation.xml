@@ -1,21 +1,93 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Runtime Exception" />
-      <item value="type Annotation" />
-      <item value="analysis Type" />
-      <item value="Down Load Excel" />
-      <item value="features" />
-      <item value="Log Manager" />
+      <item value="maximum" />
+      <item value="Column 'id' in field list is ambiguous" />
+      <item value="之前的" />
+      <item value="原来的" />
+      <item value="unescape" />
+      <item value="unescape Xml" />
+      <item value="高等教育" />
+      <item value="教育" />
+      <item value="quote keyword" />
+      <item value="quote" />
+      <item value="keyword quote" />
+      <item value="引用" />
+      <item value="jira" />
+      <item value="Decimal" />
+      <item value="Big Decimal" />
+      <item value="po Release Date" />
+      <item value="Capex" />
+      <item value="prefix" />
+      <item value="Origin Pr Info" />
+      <item value="candidate" />
+      <item value="qualifies" />
+      <item value="least" />
+      <item value="expected" />
+      <item value="qualify" />
+      <item value="qualifying" />
+      <item value="Definition" />
+      <item value="nested" />
+      <item value="express" />
+      <item value="expressed" />
+      <item value="Unsatisfied" />
+      <item value="cycles" />
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotatprocessingion" />
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotation processing" />
+      <item value="pull-pr-url" />
+      <item value="uri" />
+      <item value="pull Pr Info Job" />
+      <item value="budget type" />
+      <item value="Eur To Cny Rate" />
+      <item value="remain Amount" />
+      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
+      <item value="subtract" />
+      <item value="divide" />
+      <item value="Eur" />
+      <item value="peek" />
+      <item value="is Online" />
+      <item value="上线" />
+      <item value="online" />
+      <item value="线上" />
+      <item value="Refer" />
+      <item value="goldshuo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
-        <entry key="ARABIC" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="ARABIC" value="2" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="6" />
+        <entry key="GERMAN" value="3" />
+        <entry key="FRENCH" value="11" />
+        <entry key="FINNISH" value="4" />
+        <entry key="GUJARATI" value="3" />
+        <entry key="CATALAN" value="11" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="KURDISH" value="2" />
+        <entry key="LATIN" value="2" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="7" />
+        <entry key="MARATHI" value="1" />
+        <entry key="MALAYALAM" value="4" />
+        <entry key="MALAY" value="1" />
+        <entry key="NORWEGIAN" value="6" />
+        <entry key="PORTUGUESE" value="3" />
+        <entry key="JAPANESE" value="8" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="2" />
+        <entry key="SLOVENIAN" value="5" />
+        <entry key="SCOTS_GAELIC" value="3" />
+        <entry key="TURKISH" value="2" />
+        <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="3" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="10" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>

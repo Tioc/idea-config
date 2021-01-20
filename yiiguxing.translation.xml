@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applicant" />
       <item value="选中" />
       <item value="checked Tr Id" />
       <item value="had Pr Rel" />
@@ -50,12 +51,11 @@
       <item value="remain Amount" />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="subtract" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1028" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

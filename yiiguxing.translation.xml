@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Are you sure to trash this data" />
+      <item value="Are you sure to trash the data" />
+      <item value="trash" />
+      <item value="Are you sure to trash this data:" />
+      <item value="Are you sure to void this data" />
+      <item value="确定作废此数据吗" />
+      <item value="确定作废该条数据吗" />
+      <item value="Confirm to void the data" />
+      <item value="void" />
+      <item value="article" />
+      <item value="确定作废该条" />
+      <item value="确定作废该条信息吗" />
+      <item value="请至少选择一条记录" />
+      <item value="Detail" />
+      <item value="查看" />
+      <item value="Link" />
+      <item value="Link PR" />
+      <item value="关联" />
+      <item value="Trash" />
+      <item value="invalid" />
+      <item value="作废" />
+      <item value="废弃" />
+      <item value="Add Budget Item" />
+      <item value="折叠" />
+      <item value="展开" />
+      <item value="新增" />
       <item value="Applicant" />
       <item value="选中" />
       <item value="checked Tr Id" />
@@ -25,37 +51,11 @@
       <item value="jira" />
       <item value="Decimal" />
       <item value="Big Decimal" />
-      <item value="po Release Date" />
-      <item value="Capex" />
-      <item value="prefix" />
-      <item value="Origin Pr Info" />
-      <item value="candidate" />
-      <item value="qualifies" />
-      <item value="least" />
-      <item value="expected" />
-      <item value="qualify" />
-      <item value="qualifying" />
-      <item value="Definition" />
-      <item value="nested" />
-      <item value="express" />
-      <item value="expressed" />
-      <item value="Unsatisfied" />
-      <item value="cycles" />
-      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotatprocessingion" />
-      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [project-system,project-quartz] are excluded from annotation processing" />
-      <item value="pull-pr-url" />
-      <item value="uri" />
-      <item value="pull Pr Info Job" />
-      <item value="budget type" />
-      <item value="Eur To Cny Rate" />
-      <item value="remain Amount" />
-      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
-      <item value="subtract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1056" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -85,7 +85,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="10" />
         <entry key="VIETNAMESE" value="11" />
       </map>

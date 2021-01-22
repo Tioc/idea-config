@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fold" />
+      <item value="Currency" />
+      <item value="Applicant" />
+      <item value="输入PR No." />
+      <item value="输入PR" />
+      <item value="关联已存在" />
+      <item value="Link" />
       <item value="Are you sure to trash this data" />
       <item value="Are you sure to trash the data" />
       <item value="trash" />
@@ -16,7 +23,6 @@
       <item value="请至少选择一条记录" />
       <item value="Detail" />
       <item value="查看" />
-      <item value="Link" />
       <item value="Link PR" />
       <item value="关联" />
       <item value="Trash" />
@@ -27,7 +33,6 @@
       <item value="折叠" />
       <item value="展开" />
       <item value="新增" />
-      <item value="Applicant" />
       <item value="选中" />
       <item value="checked Tr Id" />
       <item value="had Pr Rel" />
@@ -46,16 +51,11 @@
       <item value="教育" />
       <item value="quote keyword" />
       <item value="quote" />
-      <item value="keyword quote" />
-      <item value="引用" />
-      <item value="jira" />
-      <item value="Decimal" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
-        <entry key="ENGLISH" value="1057" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1064" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

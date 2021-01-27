@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applicant" />
+      <item value="选中" />
+      <item value="checked Tr Id" />
+      <item value="had Pr Rel" />
+      <item value="is Releated" />
+      <item value="PR是否已关联" />
+      <item value="Had" />
+      <item value="pr Had Rel" />
+      <item value="had Rel" />
       <item value="maximum" />
       <item value="Column 'id' in field list is ambiguous" />
       <item value="之前的" />
@@ -42,20 +51,11 @@
       <item value="remain Amount" />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="subtract" />
-      <item value="divide" />
-      <item value="Eur" />
-      <item value="peek" />
-      <item value="is Online" />
-      <item value="上线" />
-      <item value="online" />
-      <item value="线上" />
-      <item value="Refer" />
-      <item value="goldshuo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1023" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -85,7 +85,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="1" />
+        <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="10" />
         <entry key="VIETNAMESE" value="11" />
       </map>

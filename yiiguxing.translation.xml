@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="banner_底部" />
+      <item value="btm banner" />
       <item value="Are you sure to delete" />
       <item value="Are you sure to delete this link" />
       <item value="确定删除该条关联信息吗" />
@@ -49,13 +51,11 @@
       <item value="checked Tr Id" />
       <item value="had Pr Rel" />
       <item value="is Releated" />
-      <item value="PR是否已关联" />
-      <item value="Had" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
-        <entry key="ENGLISH" value="1076" />
+        <entry key="CHINESE" value="1077" />
+        <entry key="ENGLISH" value="1077" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

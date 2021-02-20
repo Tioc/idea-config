@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="executive" />
       <item value="visible" />
       <item value="visable" />
       <item value="Failed to parse configuration class [net.shinsoft.LaunchApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'businessCaseController' for bean class [net.shinsoft.web.controller.project.BusinessCaseController] conflicts with existing, non-compatible bean definition of same name and class [net.shinsoft.web.controller.change.BusinessCaseController]" />
@@ -50,12 +51,11 @@
       <item value="Detail" />
       <item value="查看" />
       <item value="Link PR" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1088" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all Emp" />
+      <item value="包含离职人员" />
+      <item value="include Resigner" />
+      <item value="离职" />
+      <item value="include Resigners" />
+      <item value="离职人员" />
+      <item value="include Former" />
+      <item value="has Former" />
+      <item value="former" />
       <item value="module" />
       <item value="alter" />
       <item value="async" />
@@ -42,27 +51,18 @@
       <item value="Are you sure to trash the data" />
       <item value="trash" />
       <item value="Are you sure to trash this data:" />
-      <item value="Are you sure to void this data" />
-      <item value="确定作废此数据吗" />
-      <item value="确定作废该条数据吗" />
-      <item value="Confirm to void the data" />
-      <item value="void" />
-      <item value="article" />
-      <item value="确定作废该条" />
-      <item value="确定作废该条信息吗" />
-      <item value="请至少选择一条记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1090" />
+        <entry key="CHINESE" value="1100" />
+        <entry key="ENGLISH" value="1101" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />
-        <entry key="FRENCH" value="16" />
+        <entry key="FRENCH" value="17" />
         <entry key="FINNISH" value="4" />
         <entry key="GUJARATI" value="3" />
         <entry key="CATALAN" value="11" />

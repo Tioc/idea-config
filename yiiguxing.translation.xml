@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PO/GRV to K-RMB" />
       <item value="SSLHandshakeException: Remote host closed connection during handshake" />
       <item value="enc" />
       <item value="Are you sure to delete？" />
@@ -50,11 +51,10 @@
       <item value="输入PR" />
       <item value="关联已存在" />
       <item value="Link" />
-      <item value="Are you sure to trash this data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1102" />
+        <entry key="CHINESE" value="1103" />
         <entry key="ENGLISH" value="1103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -71,7 +71,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="7" />
-        <entry key="MARATHI" value="1" />
+        <entry key="MARATHI" value="2" />
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="6" />

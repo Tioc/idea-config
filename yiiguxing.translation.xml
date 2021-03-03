@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scale of the {@code BigDecimal} quotient to be returned." />
+      <item value="scale" />
+      <item value="2" />
+      <item value="divide" />
       <item value="peek" />
       <item value="PO/GRV to K-RMB" />
       <item value="SSLHandshakeException: Remote host closed connection during handshake" />
@@ -47,15 +51,11 @@
       <item value="long Text Display" />
       <item value="Fold" />
       <item value="Currency" />
-      <item value="Applicant" />
-      <item value="输入PR No." />
-      <item value="输入PR" />
-      <item value="关联已存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1103" />
-        <entry key="ENGLISH" value="1104" />
+        <entry key="CHINESE" value="1106" />
+        <entry key="ENGLISH" value="1107" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

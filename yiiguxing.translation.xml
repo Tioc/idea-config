@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create And Strip Zeros To Match Scale" />
       <item value="scale of the {@code BigDecimal} quotient to be returned." />
       <item value="scale" />
       <item value="2" />
@@ -50,12 +51,11 @@
       <item value="long Text截取" />
       <item value="long Text Display" />
       <item value="Fold" />
-      <item value="Currency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1106" />
-        <entry key="ENGLISH" value="1107" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

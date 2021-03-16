@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合同" />
       <item value="workload" />
       <item value="!file.exists()" />
       <item value="template supplier workload" />
@@ -50,11 +51,10 @@
       <item value="Failed to parse configuration class [net.shinsoft.LaunchApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'businessCaseController' for bean class [net.shinsoft.web.controller.project.BusinessCaseController] conflicts with existing, non-compatible bean definition of same name and class [net.shinsoft.web.controller.change.BusinessCaseController]" />
       <item value="'getCreateTime()' in 'net.shinsoft.system.domain.BusinessCase' clashes with 'getCreateTime()' in 'net.shinsoft.common.core.domain.BaseEntity'; attempting to use incompatible return type" />
       <item value="demander" />
-      <item value="demandor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
+        <entry key="CHINESE" value="1126" />
         <entry key="ENGLISH" value="1126" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

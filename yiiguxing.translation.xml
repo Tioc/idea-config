@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="表头" />
+      <item value="thead" />
       <item value="trash plan when trash budget" />
       <item value="State" />
       <item value="If yes, the sub-plan will delete together." />
@@ -49,13 +51,11 @@
       <item value="all Emp" />
       <item value="包含离职人员" />
       <item value="include Resigner" />
-      <item value="离职" />
-      <item value="include Resigners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1144" />
+        <entry key="ENGLISH" value="1144" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interview In Action" />
+      <item value="实战" />
+      <item value="Interview" />
+      <item value="面试" />
       <item value="表头" />
       <item value="thead" />
       <item value="trash plan when trash budget" />
@@ -47,15 +51,11 @@
       <item value="PO/GRV to K-RMB" />
       <item value="SSLHandshakeException: Remote host closed connection during handshake" />
       <item value="enc" />
-      <item value="Are you sure to delete？" />
-      <item value="all Emp" />
-      <item value="包含离职人员" />
-      <item value="include Resigner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
-        <entry key="ENGLISH" value="1144" />
+        <entry key="CHINESE" value="1146" />
+        <entry key="ENGLISH" value="1147" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

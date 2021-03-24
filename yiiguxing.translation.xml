@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="日期起止" />
       <item value="Interview In Action" />
       <item value="实战" />
       <item value="Interview" />
@@ -50,11 +51,10 @@
       <item value="peek" />
       <item value="PO/GRV to K-RMB" />
       <item value="SSLHandshakeException: Remote host closed connection during handshake" />
-      <item value="enc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1146" />
+        <entry key="CHINESE" value="1147" />
         <entry key="ENGLISH" value="1147" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

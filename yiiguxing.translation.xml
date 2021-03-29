@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Invariants" />
       <item value="trunc Tab" />
       <item value="trunc Table" />
       <item value="trunc" />
@@ -50,12 +51,11 @@
       <item value="diagnostic - diagnoses communication problems with the Contrast site" />
       <item value="The commands are as follows: diagnostic - diagnoses communication problems with the Contrast site info - get basic info about this Contrast engine create-session - Creates a session from metadata before starting up application verify - verifies legality of bytecode weaved by Contrast (advanced) properties - Displays Configuration Properties Usage: java - jar contrast.jar properties [Options] Options: --filter=&lt;searchString&gt; Filters configurations by searching paths, variables and properties analyze-log - &lt;log-file&gt; [dir|amf] - extract XML from the given debug log file into files in the given directory -- use [amf] to generate .amf file in current dir instead of expanding files into target directory combine-log - &lt;directory-with-logs&gt; - to combine rolled log files into one finding-deploy - &lt;dir-with-xml&gt; [TeamServer URL] - used to send all the finding XML in a directory to the TeamServer" />
       <item value="Yes please, the sun.management.resources.agent will run passively, you need to run/trigger all the applications route so that all areas are covered. Sharie will then send you extracted from the dashboard to fix. Are you able to download the jar agent file from the link I sent u last time? Thanks." />
-      <item value="contrast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1158" />
+        <entry key="ENGLISH" value="1159" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unchecked generics array creation for varargs parameter" />
       <item value="since" />
       <item value="vendor" />
       <item value="vender Id" />
@@ -50,11 +51,10 @@
       <item value="diagnostic - diagnoses communication problems with the Contrast site info - get basic info about this Contrast engine create-session - Creates a session from metadata before starting up application verify - verifies legality of bytecode weaved by Contrast (advanced) properties - Displays Configuration Properties Usage: java - jar contrast.jar properties [Options] Options: --filter=&lt;searchString&gt; Filters configurations by searching paths, variables and properties analyze-log - &lt;log-file&gt; [dir|amf] - extract XML from the given debug log file into files in the given directory -- use [amf] to generate .amf file in current dir instead of expanding files into target directory combine-log - &lt;directory-with-logs&gt; - to combine rolled log files into one finding-deploy - &lt;dir-with-xml&gt; [TeamServer URL] - used to send all the finding XML in a directory to the TeamServer" />
       <item value="Contrast" />
       <item value="communication" />
-      <item value="diagnostic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1160" />
+        <entry key="CHINESE" value="1161" />
         <entry key="ENGLISH" value="1161" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />

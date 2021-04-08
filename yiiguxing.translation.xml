@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actural" />
+      <item value="Redundant array creation for calling varargs method" />
       <item value="none" />
       <item value="supplier" />
       <item value="Emp" />
@@ -49,13 +51,11 @@
       <item value="!file.exists()" />
       <item value="template supplier workload" />
       <item value="Supplier Emp Workload Controller" />
-      <item value="供应商员工" />
-      <item value="delete rel when trash pr-plan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

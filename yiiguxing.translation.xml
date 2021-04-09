@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Complexity" />
       <item value="Redundant character escape '\\.' in RegExp" />
       <item value="数字" />
       <item value="小写字母" />
@@ -18,7 +19,6 @@
       <item value="pwd" />
       <item value="PWD" />
       <item value="PWD LEV" />
-      <item value="check Complexity" />
       <item value="复杂度" />
       <item value="安全性" />
       <item value="安全度" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

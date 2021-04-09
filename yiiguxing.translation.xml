@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redundant character escape '\\.' in RegExp" />
       <item value="数字" />
       <item value="小写字母" />
       <item value="LOWER LETTERS" />
@@ -50,12 +51,11 @@
       <item value="status" />
       <item value="Disposal NO" />
       <item value="visible" />
-      <item value="日期起止" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1192" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

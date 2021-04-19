@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stat" />
+      <item value="rls Stat" />
       <item value="launch date" />
       <item value="计划上线日期" />
       <item value="release date" />
@@ -49,13 +51,11 @@
       <item value="since" />
       <item value="vender Id" />
       <item value="check Invariants" />
-      <item value="trunc Tab" />
-      <item value="trunc Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1201" />
-        <entry key="ENGLISH" value="1202" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1203" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
@@ -72,7 +72,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="7" />
+        <entry key="ROMANIAN" value="8" />
         <entry key="MARATHI" value="2" />
         <entry key="MALAYALAM" value="4" />
         <entry key="MALAY" value="1" />

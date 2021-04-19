@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="launch date" />
+      <item value="计划上线日期" />
+      <item value="release date" />
+      <item value="上线日期" />
       <item value="Hierarchical" />
       <item value="Hierarchical Bean Factory" />
       <item value="Listable" />
@@ -47,15 +51,11 @@
       <item value="check Invariants" />
       <item value="trunc Tab" />
       <item value="trunc Table" />
-      <item value="trunc" />
-      <item value="Capex" />
-      <item value="Pr Capex" />
-      <item value="module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1198" />
+        <entry key="CHINESE" value="1201" />
+        <entry key="ENGLISH" value="1202" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

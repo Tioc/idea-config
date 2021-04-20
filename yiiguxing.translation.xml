@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release-plan" />
+      <item value="online-plan" />
+      <item value="上线计划" />
+      <item value="上线" />
+      <item value="上线统计" />
+      <item value="release" />
       <item value="Stat" />
       <item value="rls Stat" />
       <item value="launch date" />
@@ -45,17 +51,11 @@
       <item value="Supplier Emp Report" />
       <item value="vendor" />
       <item value="parallel" />
-      <item value="parallel Stream" />
-      <item value="tall" />
-      <item value="Unchecked generics array creation for varargs parameter" />
-      <item value="since" />
-      <item value="vender Id" />
-      <item value="check Invariants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="1203" />
+        <entry key="CHINESE" value="1208" />
+        <entry key="ENGLISH" value="1209" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

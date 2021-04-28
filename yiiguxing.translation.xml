@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lacks" />
       <item value="conflict" />
       <item value="Differ" />
       <item value="col" />
@@ -50,12 +51,11 @@
       <item value="actural" />
       <item value="Redundant array creation for calling varargs method" />
       <item value="none" />
-      <item value="supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1210" />
-        <entry key="ENGLISH" value="1211" />
+        <entry key="CHINESE" value="1211" />
+        <entry key="ENGLISH" value="1212" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

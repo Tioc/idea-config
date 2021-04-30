@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="function" />
       <item value="Illegal Argument Exception" />
       <item value="Argument" />
       <item value="Illegal Argument" />
@@ -50,12 +51,11 @@
       <item value="安全性" />
       <item value="安全度" />
       <item value="intensity" />
-      <item value="强度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1215" />
-        <entry key="ENGLISH" value="1216" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1217" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

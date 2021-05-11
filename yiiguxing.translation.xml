@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前序" />
+      <item value="preorder" />
       <item value="check Auth" />
       <item value="Security" />
       <item value="Realm" />
@@ -49,13 +51,11 @@
       <item value="online-plan" />
       <item value="上线计划" />
       <item value="上线" />
-      <item value="上线统计" />
-      <item value="release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1250" />
-        <entry key="ENGLISH" value="1251" />
+        <entry key="CHINESE" value="1252" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />

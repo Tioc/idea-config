@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Isolation" />
+      <item value="Metrics" />
+      <item value="Accumulator" />
+      <item value="Batch Accumulator" />
+      <item value="epoch" />
       <item value="quartz" />
       <item value="Sync" />
       <item value="Synchroniza" />
@@ -46,16 +51,11 @@
       <item value="Illegal Argument" />
       <item value="Illegal parameters" />
       <item value="非法的数据" />
-      <item value="lacks" />
-      <item value="conflict" />
-      <item value="Differ" />
-      <item value="col" />
-      <item value="cols" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1261" />
+        <entry key="ENGLISH" value="1262" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
